@@ -22,7 +22,7 @@
         "size": "5xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "h3": {
