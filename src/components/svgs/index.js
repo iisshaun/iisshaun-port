@@ -5,6 +5,7 @@ import ArrowRight from './arrow-right';
 import ArrowRightCircle from './arrow-right-circle';
 import ArrowUpLeft from './arrow-up-left';
 import ArrowUpRight from './arrow-up-right';
+import BlueSky from './bluesky';
 import Cart from './cart';
 import ChevronLeft from './chevron-left';
 import ChevronRight from './chevron-right';
@@ -33,6 +34,7 @@ export const iconMap = {
     cart: Cart,
     chevronLeft: ChevronLeft,
     chevronRight: ChevronRight,
+    bluesky: BlueSky,
     facebook: Facebook,
     github: GitHub,
     googlePlay: GooglePlay,

@@ -80,9 +80,9 @@ export const HeaderModel: Model = {
                 {
                     type: 'Social',
                     label: '',
-                    altText: 'GitHub',
+                    altText: 'Bluesky',
                     url: '/',
-                    icon: 'github'
+                    icon: 'bluesky'
                 }
             ]
         },

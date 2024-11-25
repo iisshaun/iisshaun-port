@@ -123,6 +123,14 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
+            label: Bluesky
+            url: 'https://bsky.app/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
             label: GitHub
             url: 'https://github.com/'
         styles:
