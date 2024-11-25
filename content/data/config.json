@@ -34,6 +34,13 @@
             },
             {
                 "type": "Social",
+                "altText": "Bluesky",
+                "label": "Bluesky",
+                "url": "https://bsky.app/profile/idiot.bsky.social",
+                "icon": "bluesky"
+            },
+            {
+                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",

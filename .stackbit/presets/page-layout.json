@@ -464,6 +464,24 @@
                                 "actions": [
                                     {
                                         "type": "Link",
+                                        "label": "Bluesky",
+                                        "showIcon": false,
+                                        "url": "https://bsky.app/"
+                                    }
+                                ],
+                                "styles": {
+                                    "self": {
+                                        "textAlign": "left"
+                                    }
+                                }
+                            },
+                            {
+                                "type": "FeaturedItem",
+                                "title": "",
+                                "text": "",
+                                "actions": [
+                                    {
+                                        "type": "Link",
                                         "label": "LinkedIn",
                                         "showIcon": false,
                                         "url": "https://www.linkedin.com/"

@@ -120,6 +120,14 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-f
     items:
+          - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Bluesky
+            url: 'https://bsky.app/'
+        styles:
+          self:
+            textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
