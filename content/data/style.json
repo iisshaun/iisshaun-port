@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "light": "#ffffff",
+    "light": "#fefffb",
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#FBFFF2",
@@ -10,47 +10,47 @@
     "onSecondary": "#050806",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
-    "fontBody": "fontPrimary",
+    "fontBody": "fontSecondary",
     "h1": {
         "size": "6xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "wider"
     },
     "h2": {
         "size": "5xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "h3": {
         "size": "4xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "h4": {
         "size": "3xl",
         "weight": "medium",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "h5": {
         "size": "xl",
         "weight": "medium",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "h6": {
         "size": "lg",
         "weight": "medium",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "buttonPrimary": {
