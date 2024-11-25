@@ -120,7 +120,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-f
     items:
-          - type: FeaturedItem
+      - type: FeaturedItem
         actions:
           - type: Link
             label: Bluesky
