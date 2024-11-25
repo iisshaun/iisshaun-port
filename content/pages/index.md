@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Shaun Hammond
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/featured-Image2.jpg
