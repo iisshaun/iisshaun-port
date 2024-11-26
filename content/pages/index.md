@@ -173,7 +173,7 @@ sections:
         showIcon: true
         icon: bluesky
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
     colors: colors-f
     backgroundSize: full
