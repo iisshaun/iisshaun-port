@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 0
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     title: 'Gidday, I''m Shaun Hammond a Game UI/UX Designer'
     subtitle: >-
