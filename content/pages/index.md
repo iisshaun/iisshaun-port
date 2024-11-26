@@ -173,7 +173,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: ContactSection
-    title: Contact Me
+    title: '<div style="text-align: left">or reach out via social media below</div>'
     text: |+
       <div style="text-align: left">or reach out via social media below</div>
 
