@@ -163,7 +163,9 @@ sections:
   - type: CtaSection
     title: "Contact Me \U0001F4E7"
     text: |
-      Email "hey" @ this domain or via any social media account below.
+      Email "hey" @ this domain
+
+      or via any social media account below.
     actions: []
     colors: colors-c
     backgroundSize: full
