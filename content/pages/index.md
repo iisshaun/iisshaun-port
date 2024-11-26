@@ -175,6 +175,14 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://x.com/iisshaun'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
