@@ -54,7 +54,7 @@
                 "type": "Link",
                 "label": "Twitter",
                 "url": "https://x.com/iisshaun",
-                "altText": "",
+                "altText": "Twitter Link",
                 "icon": "twitter",
                 "iconPosition": "left",
                 "showIcon": true
