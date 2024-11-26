@@ -198,7 +198,7 @@ sections:
           name: message
           label: Message
           hideLabel: true
-          placeholder: Message Text
+          placeholder: Your Message
           width: full
           isRequired: true
       submitLabel: Send Message
