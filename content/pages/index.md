@@ -209,10 +209,9 @@ sections:
       - type: FeaturedItem
         title: Branding
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Everything from the game logo to Steam assets, physical media for
+          expos to 
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
