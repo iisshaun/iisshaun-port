@@ -65,7 +65,8 @@
                 "url": "https://www.instagram.com/shaun.idiot/",
                 "altText": "",
                 "showIcon": true,
-                "icon": "instagram"
+                "icon": "instagram",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
