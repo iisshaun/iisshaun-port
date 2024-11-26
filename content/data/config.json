@@ -17,14 +17,6 @@
             },
             {
                 "type": "Social",
-                "label": "Bluesky",
-                "altText": "Bluesky",
-                "url": "https://bsky.app/profile/idiot.bsky.social",
-                "icon": "bluesky",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "label": "Instagram",
                 "altText": "Instagram",
                 "url": "https://www.instagram.com/shaun.idiot/",
@@ -33,8 +25,16 @@
             },
             {
                 "type": "Social",
+                "label": "Bluesky",
+                "altText": "Bluesky",
+                "url": "https://bsky.app/profile/idiot.bsky.social",
+                "icon": "bluesky",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "label": "LinkedIn",
-                "altText": "LinkedIN",
+                "altText": "LinkedIn",
                 "url": "https://www.linkedin.com/in/shaun-hammond-a740282a/",
                 "icon": "linkedin",
                 "elementId": ""
