@@ -52,6 +52,15 @@
             },
             {
                 "type": "Link",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/shaun-hammond-a740282a/",
+                "altText": "LinkedIn Link",
+                "showIcon": true,
+                "icon": "linkedin",
+                "iconPosition": "left"
+            },
+            {
+                "type": "Link",
                 "label": "Twitter",
                 "url": "https://x.com/iisshaun",
                 "altText": "Twitter Link",
@@ -66,15 +75,6 @@
                 "altText": "Instagram Link",
                 "showIcon": true,
                 "icon": "instagram",
-                "iconPosition": "left"
-            },
-            {
-                "type": "Link",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/shaun-hammond-a740282a/",
-                "altText": "LinkedIn Link",
-                "showIcon": true,
-                "icon": "linkedin",
                 "iconPosition": "left"
             }
         ],
