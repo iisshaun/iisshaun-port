@@ -91,7 +91,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: narrow
+        width: full
         padding:
           - pt-36
           - pb-36
