@@ -47,6 +47,8 @@ sections:
     type: HeroSection
     actions: []
     text: >+
+
+
       Below you will see some of the work I've created over the years.
 
 
