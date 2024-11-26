@@ -161,7 +161,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: TextSection
-    colors: colors-f
+    colors: colors-c
     variant: variant-a
     title: The Section Title
     text: >-
