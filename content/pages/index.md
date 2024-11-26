@@ -2,13 +2,6 @@
 type: PageLayout
 title: Shaun Hammond
 colors: colors-b
-backgroundImage:
-  type: BackgroundImage
-  url: /images/featured-Image2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 0
 sections:
   - elementId: ''
     colors: colors-c
