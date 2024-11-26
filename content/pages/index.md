@@ -198,7 +198,7 @@ sections:
           label: Message
           hideLabel: false
           placeholder: Tell me about it or let's set up a meeting
-          width: full
+          width: 1/2
           isRequired: true
       submitLabel: Send Message
       elementId: contact-form
