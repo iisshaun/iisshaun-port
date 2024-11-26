@@ -86,6 +86,128 @@ sections:
       text:
         textAlign: left
     subtitle: Below you will see some of the work I've created over the years.
+  - type: FeaturedItemsSection
+    title: Usual Suspects | 2022-2024
+    items:
+      - type: FeaturedItem
+        title: I'm Fast
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Read More
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: I'm Smart
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: I'm Focused
+        subtitle: ''
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Item Title
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-b
+    columns: 3
+    spacingX: 32
+    spacingY: 64
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-28
+          - pb-36
+          - pl-28
+          - pr-28
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    subtitle: >-
+      It's Only Money was made by only 5 full-time devs including myself,
+      because of that you'll see that I managed to get my hands into a lot
+      aspects of the game. During my time with Usual Suspects I was able to push
+      myself much further not just terms of UI/UX design but also getting a
+      greater understanding of UMG, Materials and Blueprint in Unreal Engine.
+      All of the UI here was created, implemented and mostly programmed by
+      myself from start to finish. 
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions:
