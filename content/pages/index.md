@@ -226,59 +226,6 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    title: Contact Me
-    text: |
-      or reach out via social media below
-    form:
-      type: FormBlock
-      title: Title of the form
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          width: 1/2
-          isRequired: 'true'
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: true
-          placeholder: Your email
-          width: 1/2
-          isRequired: 'true'
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          isRequired: true
-      submitLabel: Send Message
-      elementId: contact-form
-      styles:
-        submitLabel:
-          textAlign: left
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-  - type: ContactSection
     colors: colors-f
     backgroundSize: full
     title: "Got an interesting project? Tell me more...\U0001F4AC"
