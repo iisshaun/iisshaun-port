@@ -78,7 +78,7 @@
                 "iconPosition": "left"
             }
         ],
-        "copyrightText": "[idiot.bsky.social](https://bsky.app/profile/idiot.bsky.social)\n",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
