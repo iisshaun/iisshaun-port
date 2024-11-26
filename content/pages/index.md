@@ -195,7 +195,7 @@ sections:
           isRequired: 'true'
         - type: TextareaFormControl
           name: message
-          label: Tell me about your project
+          label: Message
           hideLabel: true
           placeholder: Tell me about it or let's set up a meeting
           width: full
