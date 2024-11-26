@@ -171,7 +171,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: bluesky
         iconPosition: right
         style: primary
         elementId: ''
