@@ -49,7 +49,7 @@ sections:
     text: ''
   - type: TextSection
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     title: ''
     subtitle: Below you will see some of the work I've created over the years.
     text: >+
