@@ -86,16 +86,29 @@ sections:
       text:
         textAlign: left
     subtitle: Below you will see some of the work I've created over the years.
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-0
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedItemsSection
     title: Usual Suspects | 2022-2024
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: The HUD
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          An overview of the HUD in It's Only Money and some insight of the
+          creative decisions taken with the layout and how some of the elements
+          came to be.
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
@@ -117,30 +130,11 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: Customisation Screens
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: I'm Focused
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Customisation is a big part of It's Only Money, not just to do with
+          the Character, but also their Vehicles and Houses as well.
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
@@ -149,7 +143,34 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Metro Dungeon
+        subtitle: ''
+        text: >
+          A rogue-lite experience where I had full creative power over the Game
+          Design, Level Design & Lighting, and of course the UI/UX. Completed
+          from start to finish with a programmer in 6 weeks.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Read More
             altText: ''
             url: /
             showIcon: true
@@ -162,12 +183,12 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: Phone System
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The Phone hosts a lot of "Apps" for the player to manage their
+          inventory and character, track quests and start mini-games, interact
+          with the map, play multiplayer, track accolades and more.
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
@@ -178,6 +199,68 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: Management Screens
+        subtitle: ''
+        text: >
+          An overview of the terminals for managing business and world upgrades,
+          an ATM for money management and the game's Settings menu.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: Branding
+        subtitle: ''
+        text: >
+          Everything from the game logo to Steam assets, physical media for
+          expos to the in-game brands.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-b
     columns: 3
