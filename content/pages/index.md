@@ -106,7 +106,7 @@ sections:
         title: The HUD
         subtitle: ''
         text: >
-          Overview of the HUD in It's Only Money and insight on some of the
+          An overview of the HUD in It's Only Money and some insight of the
           creative decisions taken with the layout and how some of the elements
           came to be.
         featuredImage:
