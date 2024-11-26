@@ -176,7 +176,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Twitter
         altText: ''
         url: 'https://x.com/iisshaun'
         showIcon: false
