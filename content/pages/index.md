@@ -149,10 +149,10 @@ sections:
       - type: FeaturedItem
         title: Metro Dungeon
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          A rogue-lite experience where I had full creative power over the Game
+          Design, Level Design & Lighting, and of course the UI/UX. Completed
+          from start to finish with a programmer in 6 weeks.
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
