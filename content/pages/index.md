@@ -50,9 +50,24 @@ sections:
     actions: []
     text: >
       Below you will see some of the work I've created over the years. This
-      includes - UI assets for layouts I've designed, implementation of these
-      inside Unreal Engine, Unity and Godot, including the bulk of the
-      programming for the later projects. 
+      includes:
+
+
+      UI assets for layouts I've designed, and implementation of these inside
+      Unreal Engine, Unity and Godot, including the bulk of the UI/UX
+      programming for the later projects.
+
+
+      Logos and branding for companies, games and fake entities inside of those
+      game universes.
+
+
+      Marketing material, both for storefronts like Steam and also physical
+      media such as PAX, Gamescom etc.
+
+
+      I've also completed projects requiring UI Shaders, Level Design, Lighting,
+      Game Design, and Textures.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
