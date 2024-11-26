@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Gidday, I''m Shaun Hammond a UI/UX Designer making videogames'
-    subtitle: ''
+    subtitle: >-
+      I started my career with New Blood Interactive in 2014, spent 5+ years
+      with RocketWerkz Studios and nearly 3 years with Usual Suspects Studios
     styles:
       self:
         height: auto
