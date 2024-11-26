@@ -19,7 +19,7 @@
                 "type": "Social",
                 "label": "Bluesky",
                 "altText": "",
-                "url": "idiot.bsky.social",
+                "url": "https://bsky.app/profile/idiot.bsky.social",
                 "icon": "bluesky",
                 "elementId": ""
             },
