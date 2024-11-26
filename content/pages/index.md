@@ -141,7 +141,16 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: ''
         styles:
           self:
