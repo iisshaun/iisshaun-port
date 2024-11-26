@@ -225,6 +225,16 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - type: FeaturedItem
         title: Branding
         subtitle: ''
