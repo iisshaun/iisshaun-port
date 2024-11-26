@@ -165,7 +165,7 @@ sections:
     text: |
       Email me at "hey" @ this domain or via any social media account below.
     actions: []
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
