@@ -72,7 +72,7 @@
                 "type": "Link",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/shaun-hammond-a740282a/",
-                "altText": "LinkedIn",
+                "altText": "LinkedIn Link",
                 "showIcon": true,
                 "icon": "linkedin",
                 "iconPosition": "left"
