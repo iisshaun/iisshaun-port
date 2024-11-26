@@ -164,15 +164,7 @@ sections:
     title: "Contact Me \U0001F4E7"
     text: |
       Email me at "hey" @ this domain or via any social media account below.
-    actions:
-      - type: Link
-        label: Twitter
-        altText: ''
-        url: 'https://x.com/iisshaun'
-        showIcon: true
-        icon: twitter
-        iconPosition: left
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: full
     elementId: ''
