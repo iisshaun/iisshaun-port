@@ -53,12 +53,12 @@ sections:
     title: ''
     subtitle: Below you will see some of the work I've created over the years.
     text: >
-      <div style="text-align: left">This includes:
+      <div style="text-align: left">This includes:</div>
 
 
       *   UI assets for layouts I've designed, and implementation of these
       inside Unreal Engine, Unity and Godot, including the bulk of the UI/UX
-      programming for the later projects.</div>
+      programming for the later projects.
 
 
       *   Logos and branding for companies, games and fake entities inside of
