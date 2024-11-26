@@ -207,7 +207,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: Blueksy
+        label: Bluesky
         url: ''
       - type: Label
         label: React
