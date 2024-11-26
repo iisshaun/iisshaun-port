@@ -176,10 +176,10 @@ sections:
       - type: FeaturedItem
         title: Phone System
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The Phone hosts a lot of "Apps" for the player to manage their
+          inventory and character, track quests and start mini-games, interact
+          with the map, play multiplayer, track accolades and more.
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
