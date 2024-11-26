@@ -187,7 +187,7 @@ sections:
         label: Bluesky
         altText: ''
         url: 'https://bsky.app/profile/idiot.bsky.social'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
