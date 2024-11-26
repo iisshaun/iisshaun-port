@@ -193,10 +193,9 @@ sections:
       - type: FeaturedItem
         title: Management Screens
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          An overview of the terminals for managing business and world upgrades,
+          an ATM for money management and the game's Settings menu.
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
