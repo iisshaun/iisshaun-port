@@ -197,7 +197,7 @@ sections:
           name: message
           label: message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Your message
           width: full
           isRequired: true
         - type: CheckboxFormControl
