@@ -87,7 +87,7 @@ sections:
         textAlign: left
     subtitle: Below you will see some of the work I've created over the years.
   - type: FeaturedItemsSection
-    title: It's Only Money - Usual Suspects Studios
+    title: It's Only Money
     items:
       - type: FeaturedItem
         title: I'm Fast
