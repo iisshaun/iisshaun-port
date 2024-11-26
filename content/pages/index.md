@@ -198,7 +198,7 @@ sections:
           name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about it or let's set up a meeting
+          placeholder: Message Texty
           width: full
           isRequired: true
       submitLabel: Send Message
