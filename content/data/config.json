@@ -23,6 +23,14 @@
                 "url": "idiot.bsky.social",
                 "icon": "bluesky",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/shaun.idiot",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
