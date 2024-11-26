@@ -54,7 +54,8 @@
                 "type": "Link",
                 "label": "Twitter",
                 "url": "https://x.com/iisshaun",
-                "altText": ""
+                "altText": "",
+                "icon": "twitter"
             },
             {
                 "type": "Link",
