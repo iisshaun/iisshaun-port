@@ -201,7 +201,7 @@ sections:
           placeholder: Your message
           width: full
           isRequired: true
-      submitLabel: Send Message
+      submitLabel: "Send Message \U0001F4E8"
       elementId: contact-form
       styles:
         submitLabel:
