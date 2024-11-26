@@ -98,8 +98,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/about.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
