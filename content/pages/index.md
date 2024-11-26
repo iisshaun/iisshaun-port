@@ -181,7 +181,7 @@ sections:
         url: 'https://x.com/iisshaun'
         showIcon: true
         icon: twitter
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     colors: colors-f
     backgroundSize: full
