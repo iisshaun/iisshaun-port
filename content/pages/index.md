@@ -53,7 +53,7 @@ sections:
     title: ''
     subtitle: >-
       <div style="text-align: left">Below you will see some of the work I've
-      created over the years.</div>
+      created over the years.</ div>
     text: >
       <div style="text-align: left">This includes:
 
