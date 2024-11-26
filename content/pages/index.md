@@ -51,13 +51,26 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      This includes:
+
+
+      *   UI assets for layouts I've designed, and implementation of these
+      inside Unreal Engine, Unity and Godot, including the bulk of the UI/UX
+      programming for the later projects.
+
+
+      *   Logos and branding for companies, games and fake entities inside of
+      those game universes.
+
+
+      *   Marketing material, both for storefronts like Steam and also physical
+      media such as PAX, Gamescom etc.
+
+
+      *   </div>I've also completed projects requiring UI Shaders, Level Design,
+      Lighting, Game Design, and Textures
+
     elementId: ''
     styles:
       self:
