@@ -10,6 +10,14 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Instagram",
+                "altText": "Instagram",
+                "url": "https://www.instagram.com/shaun.idiot/",
+                "icon": "instagram",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://x.com/iisshaun",
@@ -29,14 +37,6 @@
                 "altText": "LinkedIn",
                 "url": "https://www.linkedin.com/in/shaun-hammond-a740282a/",
                 "icon": "linkedin",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
-                "label": "Instagram",
-                "altText": "Instagram",
-                "url": "https://www.instagram.com/shaun.idiot/",
-                "icon": "instagram",
                 "elementId": ""
             }
         ],
