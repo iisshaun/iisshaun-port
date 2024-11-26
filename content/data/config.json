@@ -18,18 +18,18 @@
             },
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://x.com/iisshaun",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "label": "LinkedIn",
                 "altText": "LinkedIn",
                 "url": "https://www.linkedin.com/in/shaun-hammond-a740282a/",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://x.com/iisshaun",
+                "icon": "twitter"
             },
             {
                 "type": "Social",
