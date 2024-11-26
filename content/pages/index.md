@@ -241,16 +241,7 @@ sections:
         styles:
           self:
             textAlign: left
-    actions:
-      - type: Button
-        label: Read More
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-b
     columns: 3
     spacingX: 32
