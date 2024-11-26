@@ -69,16 +69,6 @@
                 "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "hey(at)iisshaun.com",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "[idiot.bsky.social](https://bsky.app/profile/idiot.bsky.social)\n",
         "styles": {
             "self": {
