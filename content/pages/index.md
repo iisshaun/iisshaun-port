@@ -172,7 +172,7 @@ sections:
         url: /
         showIcon: true
         icon: bluesky
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     colors: colors-f
