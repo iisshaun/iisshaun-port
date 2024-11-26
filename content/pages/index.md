@@ -188,7 +188,7 @@ sections:
         altText: ''
         url: 'https://bsky.app/profile/idiot.bsky.social'
         showIcon: true
-        icon: arrowRight
+        icon: bluesky
         iconPosition: right
         elementId: ''
     colors: colors-f
