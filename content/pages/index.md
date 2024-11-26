@@ -87,7 +87,7 @@ sections:
         textAlign: left
     subtitle: Below you will see some of the work I've created over the years.
   - type: FeaturedItemsSection
-    title: Usual Suspects - 2022-2024
+    title: Usual Suspects | 2022-2024
     items:
       - type: FeaturedItem
         title: I'm Fast
