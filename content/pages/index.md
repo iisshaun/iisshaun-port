@@ -202,50 +202,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: LabelsSection
-    title: Skills
-    subtitle: The section subtitle
-    items:
-      - type: Label
-        label: Bluesky
-        url: 'https://bsky.app/profile/idiot.bsky.social'
-      - type: Label
-        label: React
-        url: ''
-      - type: Label
-        label: Microsoft Office
-        url: ''
-      - type: Label
-        label: Next.js
-        url: ''
-      - type: Label
-        label: Netlify
-        url: ''
-      - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
-        label: C++
-        url: ''
-      - type: Label
-        label: Swift
-        url: ''
-    colors: colors-c
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: ContactSection
     title: "Contact Me \U0001F4E7"
     text: |
