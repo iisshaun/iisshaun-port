@@ -182,7 +182,7 @@ sections:
     colors: colors-f
     columns: 3
     spacingX: 32
-    spacingY: 32
+    spacingY: 64
     elementId: ''
     styles:
       self:
