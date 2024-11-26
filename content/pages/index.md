@@ -169,7 +169,7 @@ sections:
       - type: Button
         label: Bluesky
         altText: ''
-        url: /
+        url: 'https://bsky.app/profile/idiot.bsky.social'
         showIcon: true
         icon: bluesky
         iconPosition: left
