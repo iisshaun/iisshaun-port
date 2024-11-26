@@ -105,10 +105,10 @@ sections:
       - type: FeaturedItem
         title: The HUD
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Overview of the HUD in It's Only Money and insight on some of the
+          creative decisions taken with the layout and how some of the elements
+          came to be.
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
