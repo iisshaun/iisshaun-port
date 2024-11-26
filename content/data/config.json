@@ -43,7 +43,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Bluesky",
                 "url": "/info",
                 "altText": "",
                 "showIcon": true,
