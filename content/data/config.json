@@ -10,6 +10,14 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Bluesky",
+                "altText": "Bluesky",
+                "url": "https://bsky.app/profile/idiot.bsky.social",
+                "icon": "bluesky",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "label": "Instagram",
                 "altText": "Instagram",
                 "url": "https://www.instagram.com/shaun.idiot/",
@@ -22,14 +30,6 @@
                 "label": "Twitter",
                 "url": "https://x.com/iisshaun",
                 "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "label": "Bluesky",
-                "altText": "Bluesky",
-                "url": "https://bsky.app/profile/idiot.bsky.social",
-                "icon": "bluesky",
-                "elementId": ""
             },
             {
                 "type": "Social",
