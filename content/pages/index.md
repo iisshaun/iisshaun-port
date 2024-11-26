@@ -182,7 +182,7 @@ sections:
         - type: TextFormControl
           name: name
           label: name
-          hideLabel: false
+          hideLabel: true
           placeholder: Your name
           width: 1/2
           isRequired: 'true'
