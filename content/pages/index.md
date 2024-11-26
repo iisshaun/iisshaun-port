@@ -167,7 +167,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Bluesky
+        label: ' Bluesky'
         altText: ''
         url: 'https://bsky.app/profile/idiot.bsky.social'
         showIcon: true
