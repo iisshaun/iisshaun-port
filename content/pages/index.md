@@ -162,9 +162,8 @@ sections:
     subtitle: Projects
   - type: CtaSection
     title: "Contact Me \U0001F4E7"
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Email me at "hey" @ this domain
     actions:
       - type: Button
         label: ' Bluesky'
