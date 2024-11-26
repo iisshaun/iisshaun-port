@@ -48,6 +48,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      I started my career with New Blood Interactive in 2014, spent over 5 years
+      with RocketWerkz Studios and nearly 3 years with my friends at Usual
+      Suspects Studios.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
