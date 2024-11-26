@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Gidday, I'm Shaun Hammond a UI/UX Designer making videogames in Dunedin,
+      Hello, I'm Shaun Hammond a UI/UX Designer making videogames in Dunedin,
       New Zealand
     subtitle: >-
       I started my career with New Blood Interactive in 2014, spent over 5 years
