@@ -68,7 +68,7 @@ sections:
       media such as PAX, Gamescom etc.
 
 
-      *   </div>I've also completed projects requiring UI Shaders, Level Design,
+      *   I've also completed projects requiring UI Shaders, Level Design,
       Lighting, Game Design, and Textures
 
     elementId: ''
