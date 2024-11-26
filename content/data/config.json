@@ -30,6 +30,14 @@
                 "url": "https://www.instagram.com/shaun.idiot/",
                 "icon": "instagram",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/shaun-hammond-a740282a/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
