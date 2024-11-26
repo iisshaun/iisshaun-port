@@ -133,8 +133,8 @@ sections:
         title: Customisation Screens
         subtitle: ''
         text: >
-          Customisation is a big part of It's Only Money, whether that is to do
-          with the Character, their Vehicles or Houses. 
+          Customisation is a big part of It's Only Money, not just to do with
+          the Character, but also their Vehicles and Houses as well.
         featuredImage:
           type: ImageBlock
           url: /images/gallery-4.jpg
