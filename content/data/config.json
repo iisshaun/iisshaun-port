@@ -98,5 +98,6 @@
                 ]
             }
         }
-    }
+    },
+    "favicon": "/images/bg3.jpg"
 }
