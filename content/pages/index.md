@@ -103,7 +103,7 @@ sections:
     title: Usual Suspects | 2022-2024
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: The HUD
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
