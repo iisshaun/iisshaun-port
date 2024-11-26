@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Gidday, I''m Shaun Hammond a UI/UX Designer who makes videogames'
+    title: 'Gidday, I''m Shaun Hammond a UI/UX Designer making videogames'
     subtitle: ''
     styles:
       self:
