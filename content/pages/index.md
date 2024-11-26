@@ -174,8 +174,9 @@ sections:
         justifyContent: flex-end
   - type: ContactSection
     title: Contact Me
-    text: |
-      or reach out via social media below
+    text: |+
+      <div style="text-align: left">or reach out via social media below</div>
+
     form:
       type: FormBlock
       title: Title of the form
