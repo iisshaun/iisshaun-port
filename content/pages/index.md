@@ -52,7 +52,7 @@ sections:
     variant: variant-a
     title: ''
     text: >+
-      This includes:
+      Including:
 
 
       *   **UI assets** for **layouts** I've designed, and **implementation** of
