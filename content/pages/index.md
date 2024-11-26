@@ -224,7 +224,7 @@ sections:
             textAlign: left
     actions:
       - type: Button
-        label: Learn more
+        label: Read More
         altText: ''
         url: /
         showIcon: false
