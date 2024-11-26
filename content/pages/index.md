@@ -173,7 +173,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: ContactSection
-    title: "Contact Me \U0001F4E7"
+    title: "\U0001F4E7Contact Me"
     text: |
       or reach out via social media below.
     form:
