@@ -183,6 +183,14 @@ sections:
         icon: twitter
         iconPosition: left
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://bsky.app/profile/idiot.bsky.social'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
