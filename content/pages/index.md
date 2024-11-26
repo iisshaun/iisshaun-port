@@ -49,9 +49,10 @@ sections:
     type: HeroSection
     actions: []
     text: >
-      I started my career with New Blood Interactive in 2014, spent over 5 years
-      with RocketWerkz Studios and nearly 3 years with my friends at Usual
-      Suspects Studios.
+      Below you will see some of the work I've created over the years. This
+      includes - UI assets for layouts I've designed, implementation of these
+      inside Unreal Engine, Unity and Godot, including the bulk of the
+      programming for the later projects. 
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
