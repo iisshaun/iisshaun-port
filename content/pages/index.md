@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: 'Gidday, I''m Shaun Hammond a Game UI/UX Designer'
     subtitle: >-
       I started my career with New Blood Interactive in 2014, worked over 5
