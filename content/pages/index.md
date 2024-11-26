@@ -202,7 +202,7 @@ sections:
         justifyContent: flex-start
     subtitle: >-
       It's Only Money was made by only 5 full-time devs including myself,
-      because of that you'll see that I managed to get my hand into a lot
+      because of that you'll see that I managed to get my hands into a lot
       aspects of the game. During my time with Usual Suspects I was able to push
       myself much further not just terms of UI/UX design but also a greater
       understanding of using UMG, Materials and Blueprint in Unreal Engine. 
