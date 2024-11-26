@@ -179,7 +179,7 @@ sections:
         label: Twitter
         altText: ''
         url: 'https://x.com/iisshaun'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
