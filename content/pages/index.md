@@ -166,14 +166,6 @@ sections:
       Email me at "hey" @ this domain or via any social media account below.
     actions:
       - type: Link
-        label: Bluesky
-        altText: ''
-        url: 'https://bsky.app/profile/idiot.bsky.social'
-        showIcon: true
-        icon: bluesky
-        iconPosition: left
-        elementId: ''
-      - type: Link
         label: Twitter
         altText: ''
         url: 'https://x.com/iisshaun'
