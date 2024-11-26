@@ -8,10 +8,10 @@ sections:
     backgroundSize: full
     title: 'Gidday, I''m Shaun Hammond a Game UI/UX Designer '
     subtitle: >-
-      I started my career with New Blood Interactive in 2014, worked over 5
-      years with RocketWerkz Studios and then nearly 3 years with my friends at
-      Usual Suspects Studios. I'm based in Dunedin, New Zealand and open to new
-      opportunities.
+      I have over 8 years experience. I started my career with New Blood
+      Interactive in 2014, worked over 5 years with RocketWerkz Studios and then
+      nearly 3 years with my friends at Usual Suspects Studios. I'm based in
+      Dunedin, New Zealand and open to new opportunities.
     styles:
       self:
         height: auto
