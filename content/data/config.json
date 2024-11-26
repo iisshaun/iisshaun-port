@@ -44,7 +44,7 @@
             {
                 "type": "Link",
                 "label": "Bluesky",
-                "url": "/info",
+                "url": "https://bsky.app/profile/idiot.bsky.social",
                 "altText": "",
                 "showIcon": true,
                 "icon": "bluesky",
