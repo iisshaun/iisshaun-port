@@ -180,7 +180,7 @@ sections:
         altText: ''
         url: 'https://x.com/iisshaun'
         showIcon: true
-        icon: arrowRight
+        icon: twitter
         iconPosition: right
         elementId: ''
     colors: colors-f
