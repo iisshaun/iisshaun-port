@@ -55,21 +55,23 @@ sections:
       This includes:
 
 
-      *   UI assets for layouts I've designed, and implementation of these
-      inside Unreal Engine, Unity and Godot, including the bulk of the UI/UX
-      programming for the later projects.
+      *   **UI assets** for **layouts** I've designed, and **implementation** of
+      these inside of **Unreal Engine**, and **Unity**.
 
 
-      *   Logos and branding for companies, games and fake entities inside of
-      those game universes.
+      *   **UI/UX Programming** in **Unreal's Blueprint**.
 
 
-      *   Marketing material, both for storefronts like Steam and also physical
-      media such as PAX, Gamescom etc.
+      *   **Logos** and **Branding** for companies, games and fake entities
+      inside of those game universes.
 
 
-      *   I've also completed projects requiring UI Shaders, Level Design,
-      Lighting, Game Design, and Textures
+      *   **Marketing** material, both for storefronts like **Steam** and also
+      physical media such as **PAX**, **Gamescom** etc.
+
+
+      *   I've also completed projects requiring **UI Shaders**, **Level
+      Design**, **Lighting**, **Game Design**, and **Textures** for 3D Assets.
 
     elementId: ''
     styles:
