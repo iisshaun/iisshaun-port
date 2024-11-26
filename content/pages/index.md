@@ -51,7 +51,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    subtitle: The section subtitle
+    subtitle: Below you will see some of the work I've created over the years.
     text: >+
       This includes:
 
