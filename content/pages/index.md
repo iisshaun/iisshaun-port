@@ -167,7 +167,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Bluesky
         altText: ''
         url: /
         showIcon: true
