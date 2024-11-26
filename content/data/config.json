@@ -72,7 +72,10 @@
                 "type": "Link",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/shaun-hammond-a740282a/",
-                "altText": "LinkedIn"
+                "altText": "LinkedIn",
+                "showIcon": true,
+                "icon": "linkedin",
+                "iconPosition": "left"
             }
         ],
         "copyrightText": "[idiot.bsky.social](https://bsky.app/profile/idiot.bsky.social)\n",
