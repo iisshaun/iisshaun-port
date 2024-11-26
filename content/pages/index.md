@@ -196,7 +196,7 @@ sections:
         - type: TextareaFormControl
           name: message
           label: Tell me about your project
-          hideLabel: false
+          hideLabel: true
           placeholder: Tell me about your project
           width: full
           isRequired: true
