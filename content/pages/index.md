@@ -208,7 +208,7 @@ sections:
     items:
       - type: Label
         label: Bluesky
-        url: ''
+        url: 'https://bsky.app/profile/idiot.bsky.social'
       - type: Label
         label: React
         url: ''
