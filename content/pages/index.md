@@ -163,7 +163,7 @@ sections:
   - type: CtaSection
     title: "Contact Me \U0001F4E7"
     text: |
-      Email me at "hey" @ this domain
+      Email me at "hey" @ this domain or via any social media account below.
     actions:
       - type: Button
         label: ' Bluesky'
