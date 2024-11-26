@@ -75,6 +75,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: Below you will see some of the work I've created over the years.
   - type: TextSection
     colors: colors-f
     variant: variant-a
