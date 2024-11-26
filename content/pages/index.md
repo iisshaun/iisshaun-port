@@ -192,7 +192,7 @@ sections:
           - pt-28
           - pb-36
           - pl-28
-          - pr-16
+          - pr-28
         justifyContent: center
       title:
         textAlign: left
