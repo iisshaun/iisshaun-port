@@ -222,7 +222,16 @@ sections:
         styles:
           self:
             textAlign: left
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-b
     columns: 3
     spacingX: 32
