@@ -56,7 +56,8 @@
                 "url": "https://x.com/iisshaun",
                 "altText": "",
                 "icon": "twitter",
-                "iconPosition": "left"
+                "iconPosition": "left",
+                "showIcon": true
             },
             {
                 "type": "Link",
