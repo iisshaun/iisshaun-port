@@ -47,7 +47,8 @@
                 "url": "/info",
                 "altText": "",
                 "showIcon": true,
-                "icon": "bluesky"
+                "icon": "bluesky",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
