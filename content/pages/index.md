@@ -189,7 +189,7 @@ sections:
         - type: EmailFormControl
           name: email
           label: Name
-          hideLabel: false
+          hideLabel: true
           placeholder: Your email
           width: 1/2
           isRequired: 'true'
