@@ -154,7 +154,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: arrowUpLeft
+            icon: arrowUpRight
             iconPosition: right
             style: primary
             elementId: ''
