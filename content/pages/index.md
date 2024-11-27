@@ -40,7 +40,7 @@ sections:
     actions: []
     text: ''
   - type: TextSection
-    colors: colors-f
+    colors: colors-a
     variant: variant-a
     title: ''
     text: >+
@@ -93,19 +93,6 @@ sections:
       text:
         textAlign: left
     subtitle: ''
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
     title: Usual Suspects | 2022-2024
     items:
@@ -301,13 +288,8 @@ sections:
   - type: FeaturedItemsSection
     title: Other Projects | 2014-2022
     subtitle: >-
-      It's Only Money was made by only 5 full-time devs including myself,
-      because of that you'll see that I managed to get my hands into a lot
-      aspects of the game. During my time with Usual Suspects I was able to push
-      myself much further not just in terms of UI/UX design but also getting a
-      greater understanding of UMG, Materials and programming with Blueprint in
-      Unreal Engine. All of the UI here was created, implemented and mostly
-      programmed by myself from start to finish. 
+      Below are some of the projects I've on over the years for studios like
+      RocketWerkz, New Blood and Deep Field. 
     items:
       - type: FeaturedItem
         title: The HUD
@@ -411,6 +393,38 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Currently...
+    text: >
+      Even though I am extremely comfortable working with the Adobe Suite and
+      Unreal Engine - I am currently working on a project in the Godot Engine
+      mainly to learn GDScript and improve my knowledge writing code vs visual
+      scripting. I'm also using this as an opportunity for me to get comfortable
+      with some other programs like the Affinity Designer, Aseprite, DaVinci
+      Resolve and Ableton.
+
+
+      I plan to have some updates on my progress on [my Bluesky
+      account](https://bsky.app/profile/idiot.bsky.social).
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: CtaSection
     title: "Contact Me \U0001F4AC"
     text: |
