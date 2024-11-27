@@ -288,7 +288,7 @@ sections:
   - type: FeaturedItemsSection
     title: Other Projects | 2014-2022
     subtitle: >-
-      Below are some of the projects I've on over the years for companies like
+      Below are some of the projects I've on over the years for studios like
       RocketWerkz, New Blood and Deep Field. 
     items:
       - type: FeaturedItem
