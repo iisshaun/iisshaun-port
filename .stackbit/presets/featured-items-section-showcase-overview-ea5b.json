@@ -1,0 +1,262 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Showcase Overview",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Showcase"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Usual Suspects | 2022-2024",
+                "subtitle": "It's Only Money was made by only 5 full-time devs including myself, because of that you'll see that I managed to get my hands into a lot aspects of the game. During my time with Usual Suspects I was able to push myself much further not just in terms of UI/UX design but also getting a greater understanding of UMG, Materials and programming with Blueprint in Unreal Engine. All of the UI here was created, implemented and mostly programmed by myself from start to finish. ",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "The HUD",
+                        "subtitle": "",
+                        "text": "An overview of the HUD in It's Only Money and some insight of the creative decisions taken with the layout and how some of the elements came to be.\n",
+                        "featuredImage": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/gallery-4.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Item image",
+                            "caption": "Caption of the image",
+                            "elementId": ""
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": true,
+                                "icon": "arrowUpRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Customisation Screens",
+                        "subtitle": "",
+                        "text": "Customisation is a big part of It's Only Money, not just to do with the Character, but also their Vehicles and Houses as well.\n",
+                        "featuredImage": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/gallery-4.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Item image",
+                            "caption": "Caption of the image",
+                            "elementId": ""
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": true,
+                                "icon": "arrowUpRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Metro Dungeon",
+                        "subtitle": "",
+                        "text": "A rogue-lite experience where I had full creative power over the Game Design, Level Design & Lighting, and of course the UI/UX. Completed from start to finish with a programmer in 6 weeks.\n",
+                        "featuredImage": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/gallery-4.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Item image",
+                            "caption": "Caption of the image",
+                            "elementId": ""
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": true,
+                                "icon": "arrowUpRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Phone System",
+                        "subtitle": "",
+                        "text": "The Phone hosts a lot of \"Apps\" for the player to manage their inventory and character, track quests and start mini-games, interact with the map, play multiplayer, track accolades and more.\n",
+                        "featuredImage": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/gallery-4.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Item image",
+                            "caption": "Caption of the image",
+                            "elementId": ""
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": true,
+                                "icon": "arrowUpRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Management Screens",
+                        "subtitle": "",
+                        "text": "An overview of the terminals for managing business and world upgrades, an ATM for money management and the game's Settings menu.\n",
+                        "featuredImage": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/gallery-4.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Item image",
+                            "caption": "Caption of the image",
+                            "elementId": ""
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": true,
+                                "icon": "arrowUpRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "Branding",
+                        "subtitle": "",
+                        "text": "Everything from the game logo to Steam assets, physical media for expos to the in-game brands.\n",
+                        "featuredImage": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/gallery-4.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Item image",
+                            "caption": "Caption of the image",
+                            "elementId": ""
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": true,
+                                "icon": "arrowUpRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": ""
+                            }
+                        ],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "actions": [],
+                "colors": "colors-b",
+                "columns": 3,
+                "spacingX": 24,
+                "spacingY": 64,
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "full",
+                        "padding": [
+                            "pt-28",
+                            "pb-36",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-showcase-overview-ea5b.png"
+        }
+    ]
+}
