@@ -93,19 +93,6 @@ sections:
       text:
         textAlign: left
     subtitle: ''
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
     title: Usual Suspects | 2022-2024
     items:
