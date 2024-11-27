@@ -260,7 +260,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: ''
             altText: ''
             url: /
             showIcon: false
