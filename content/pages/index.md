@@ -442,32 +442,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: Branding
-        subtitle: ''
-        text: >
-          Everything from the game logo to Steam assets, physical media for
-          expos to the in-game brands.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowUpRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-a
     columns: 3
