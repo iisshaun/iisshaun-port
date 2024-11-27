@@ -298,17 +298,6 @@ sections:
       greater understanding of UMG, Materials and programming with Blueprint in
       Unreal Engine. All of the UI here was created, implemented and mostly
       programmed by myself from start to finish. 
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
     title: Usual Suspects | 2022-2024
     subtitle: >-
