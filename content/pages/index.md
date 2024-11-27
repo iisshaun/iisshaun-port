@@ -56,11 +56,12 @@ sections:
       including:
 
 
-      *   **UI assets** for **layouts** I've designed, and **implementation** of
-      these inside of **Unreal Engine**, and **Unity**.
+      *   **UI Assets** for **Layouts** I've designed in **Adobe Illustrator**
+      and **Photoshop**, and the **Implementation** of these inside of **Unreal
+      Engine**, and **Unity**.
 
 
-      *   **UI/UX Programming** in **Unreal's Blueprint**.
+      *   **UI/UX Programming** inside **Unreal** using **Blueprint**.
 
 
       *   **Logos** and **Branding** for companies, games and lore-based brands
