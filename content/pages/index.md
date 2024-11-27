@@ -389,33 +389,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: Phone System
-        subtitle: ''
-        text: >
-          The Phone hosts a lot of "Apps" for the player to manage their
-          inventory and character, track quests and start mini-games, interact
-          with the map, play multiplayer, track accolades and more.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowUpRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-a
     columns: 3
