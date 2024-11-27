@@ -59,12 +59,12 @@ sections:
       *   **UI/UX Programming** in **Unreal's Blueprint**.
 
 
-      *   **Logos** and **Branding** for companies, games and fake entities
+      *   **Logos** and **Branding** for companies, games and lore-based brands
       inside of those game universes.
 
 
       *   **Marketing** material, both for storefronts like **Steam** and also
-      physical media such as **PAX**, **Gamescom** etc.
+      physical media such at events such as **PAX**, **Gamescom** etc.
 
 
       *   I've also completed projects requiring **UI Shaders**, **Level
