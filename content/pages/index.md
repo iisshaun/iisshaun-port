@@ -299,7 +299,7 @@ sections:
       Unreal Engine. All of the UI here was created, implemented and mostly
       programmed by myself from start to finish. 
   - type: FeaturedItemsSection
-    title: Usual Suspects | 2022-2024
+    title: Other Projects | 2014-2022
     subtitle: >-
       It's Only Money was made by only 5 full-time devs including myself,
       because of that you'll see that I managed to get my hands into a lot
