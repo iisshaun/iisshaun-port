@@ -130,7 +130,7 @@ sections:
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         elementId: ''
         styles:
