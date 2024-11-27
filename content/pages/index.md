@@ -82,11 +82,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitle: >-
-      I started my career with New Blood Interactive in 2014, worked over 5
-      years with RocketWerkz Studios and then nearly 3 years with my friends at
-      Usual Suspects Studios. Below you will see some of the work I've created
-      over the years.
+    subtitle: ''
   - type: DividerSection
     title: Divider
     elementId: ''
