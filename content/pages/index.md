@@ -128,7 +128,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: arrowRightCircle
+            icon: arrowUpRight
             iconPosition: right
             style: primary
             elementId: ''
