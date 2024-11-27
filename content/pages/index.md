@@ -56,6 +56,10 @@ sections:
       including:
 
 
+      *   **UI assets** for **layouts** I've designed, and **implementation** of
+      these inside of **Unreal Engine**, and **Unity**.
+
+
       *   **UI/UX Programming** in **Unreal's Blueprint**.
 
 
