@@ -214,7 +214,7 @@ sections:
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
       - type: FeaturedItem
         title: Management Screens
