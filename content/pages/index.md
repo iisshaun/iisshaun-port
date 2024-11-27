@@ -264,7 +264,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: mail
+            icon: chevronRight
             iconPosition: right
             style: primary
             elementId: ''
