@@ -369,7 +369,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: CtaSection
-    title: "Contact Me\U0001F4AC"
+    title: "Contact Me \U0001F4AC"
     text: |
       Email "hey" @ this domain
 
