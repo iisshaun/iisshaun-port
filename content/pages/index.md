@@ -237,7 +237,7 @@ sections:
             label: ''
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: arrowUpRight
             iconPosition: right
             style: secondary
