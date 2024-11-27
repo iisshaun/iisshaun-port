@@ -373,7 +373,7 @@ sections:
     text: |
       Email "hey" @ this domain
 
-      or via any social media account below.
+      or reach out through any social media account below.
     actions: []
     colors: colors-c
     backgroundSize: full
