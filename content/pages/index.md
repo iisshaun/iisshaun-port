@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundSize: full
-    title: 'Gidday, I''m Shaun Hammond a Game UI/UX Designer '
+    title: 'Gidday, I''m Shaun Hammond a UI/UX Designer'
     subtitle: >-
       I have over 10 years experience in the videogame industry. I'm based in
       Dunedin, New Zealand and currently open to new opportunities.
