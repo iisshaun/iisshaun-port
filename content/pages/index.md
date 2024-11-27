@@ -264,7 +264,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: arrowRight
+            icon: playCircle
             iconPosition: right
             style: primary
             elementId: ''
