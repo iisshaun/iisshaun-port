@@ -398,34 +398,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: CtaSection
-    title: "Contact Me \U0001F4AC"
-    text: |
-      Email "hey" @ this domain
-
-      or reach out through any social media account below.
-    actions: []
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: TextSection
     colors: colors-f
     variant: variant-a
@@ -454,4 +426,32 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: CtaSection
+    title: "Contact Me \U0001F4AC"
+    text: |
+      Email "hey" @ this domain
+
+      or reach out through any social media account below.
+    actions: []
+    colors: colors-c
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-24
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
