@@ -289,10 +289,10 @@ sections:
       It's Only Money was made by only 5 full-time devs including myself,
       because of that you'll see that I managed to get my hands into a lot
       aspects of the game. During my time with Usual Suspects I was able to push
-      myself much further not just terms of UI/UX design but also getting a
-      greater understanding of UMG, Materials and Blueprint in Unreal Engine.
-      All of the UI here was created, implemented and mostly programmed by
-      myself from start to finish. 
+      myself much further not just in terms of UI/UX design but also getting a
+      greater understanding of UMG, Materials and programming with Blueprint in
+      Unreal Engine. All of the UI here was created, implemented and mostly
+      programmed by myself from start to finish. 
   - type: FeaturedProjectsSection
     subtitle: 'Projects:'
     actions:
