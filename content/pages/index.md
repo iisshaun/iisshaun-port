@@ -416,32 +416,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: Management Screens
-        subtitle: ''
-        text: >
-          An overview of the terminals for managing business and world upgrades,
-          an ATM for money management and the game's Settings menu.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowUpRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-a
     columns: 3
