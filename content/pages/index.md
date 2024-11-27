@@ -288,13 +288,8 @@ sections:
   - type: FeaturedItemsSection
     title: Other Projects | 2014-2022
     subtitle: >-
-      It's Only Money was made by only 5 full-time devs including myself,
-      because of that you'll see that I managed to get my hands into a lot
-      aspects of the game. During my time with Usual Suspects I was able to push
-      myself much further not just in terms of UI/UX design but also getting a
-      greater understanding of UMG, Materials and programming with Blueprint in
-      Unreal Engine. All of the UI here was created, implemented and mostly
-      programmed by myself from start to finish. 
+      Below are some of the projects I've on over the years for companies like
+      RocketWerkz, New Blood and Deep Field. 
     items:
       - type: FeaturedItem
         title: The HUD
