@@ -402,13 +402,16 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Currently...
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Even though I am extremely comfortable working with the Adobe Suite and
+      Unreal Engine - I am currently working on a project in the Godot Engine
+      mainly to learn GDScript and improve my knowledge writing code vs visual
+      scripting. I'm also using this as an opportunity for me to get comfortable
+      with some other programs like the Affinity Designer, Aseprite, DaVinci
+      Resolve and Ableton.
+
+
+      I'll likely have some updates on how this is going on my Bluesky account.
     elementId: ''
     styles:
       self:
