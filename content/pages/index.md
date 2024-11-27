@@ -266,7 +266,7 @@ sections:
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
     actions: []
     colors: colors-b
