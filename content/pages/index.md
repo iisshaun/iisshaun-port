@@ -42,7 +42,10 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: ''
+    title: >-
+      I started my career with New Blood Interactive in 2014, worked over 5
+      years with RocketWerkz Studios and then nearly 3 years with my friends at
+      Usual Suspects Studios.
     text: >+
       Including:
 
