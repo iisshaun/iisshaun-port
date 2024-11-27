@@ -6,13 +6,10 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundSize: full
-    title: 'Gidday, I''m Shaun Hammond a Game UI/UX Designer '
+    title: 'Gidday, I''m Shaun Hammond a UI/UX Designer'
     subtitle: >-
-      I have over 10 years experience in the videogame industry. I started my
-      career with New Blood Interactive in 2014, worked over 5 years with
-      RocketWerkz Studios and then nearly 3 years with my friends at Usual
-      Suspects Studios. I'm based in Dunedin, New Zealand and open to new
-      opportunities.
+      I have over 10 years experience in the videogame industry. I'm based in
+      Dunedin, New Zealand and currently open to new opportunities.
     styles:
       self:
         height: auto
@@ -47,22 +44,32 @@ sections:
     variant: variant-a
     title: ''
     text: >+
-      Including:
+      I started my career with New Blood Interactive in 2014, worked over 5
+      years with RocketWerkz Studios and then nearly 3 years with my friends at
+      Usual Suspects Studios.
 
 
-      *   **UI assets** for **layouts** I've designed, and **implementation** of
-      these inside of **Unreal Engine**, and **Unity**.
+      <br>
 
 
-      *   **UI/UX Programming** in **Unreal's Blueprint**.
+      Below you will see some of the work I've created over the years,
+      including:
 
 
-      *   **Logos** and **Branding** for companies, games and fake entities
+      *   **UI Assets** for **Layouts** I've designed in **Adobe Illustrator**
+      and **Photoshop**, and the **Implementation** of these inside of **Unreal
+      Engine**, and **Unity**.
+
+
+      *   **UI/UX Programming** inside **Unreal** using **Blueprint**.
+
+
+      *   **Logos** and **Branding** for companies, games and lore-based brands
       inside of those game universes.
 
 
       *   **Marketing** material, both for storefronts like **Steam** and also
-      physical media such as **PAX**, **Gamescom** etc.
+      physical media such at events such as **PAX**, **Gamescom** etc.
 
 
       *   I've also completed projects requiring **UI Shaders**, **Level
@@ -85,7 +92,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitle: Below you will see some of the work I've created over the years.
+    subtitle: ''
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -117,13 +124,13 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: Read More
+            label: ''
             altText: ''
             url: /
             showIcon: true
-            icon: arrowRight
+            icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         elementId: ''
         styles:
@@ -143,13 +150,13 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: Learn more
+            label: ''
             altText: ''
             url: /
-            showIcon: false
-            icon: arrowRight
+            showIcon: true
+            icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         elementId: ''
         styles:
@@ -170,13 +177,13 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: Read More
+            label: ''
             altText: ''
             url: /
             showIcon: true
-            icon: arrowRight
+            icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         elementId: ''
         styles:
@@ -201,13 +208,13 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: ''
             altText: ''
             url: /
-            showIcon: false
-            icon: arrowRight
+            showIcon: true
+            icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
       - type: FeaturedItem
         title: Management Screens
@@ -227,13 +234,13 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: ''
             altText: ''
             url: /
-            showIcon: false
-            icon: arrowRight
+            showIcon: true
+            icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
       - type: FeaturedItem
         title: Branding
@@ -253,18 +260,18 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: ''
             altText: ''
             url: /
-            showIcon: false
-            icon: arrowRight
+            showIcon: true
+            icon: arrowUpRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
     actions: []
     colors: colors-b
     columns: 3
-    spacingX: 32
+    spacingX: 24
     spacingY: 64
     elementId: ''
     styles:
@@ -274,8 +281,8 @@ sections:
         padding:
           - pt-28
           - pb-36
-          - pl-28
-          - pr-28
+          - pl-4
+          - pr-4
         justifyContent: center
       title:
         textAlign: left
@@ -287,38 +294,114 @@ sections:
       It's Only Money was made by only 5 full-time devs including myself,
       because of that you'll see that I managed to get my hands into a lot
       aspects of the game. During my time with Usual Suspects I was able to push
-      myself much further not just terms of UI/UX design but also getting a
-      greater understanding of UMG, Materials and Blueprint in Unreal Engine.
-      All of the UI here was created, implemented and mostly programmed by
-      myself from start to finish. 
-  - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
+      myself much further not just in terms of UI/UX design but also getting a
+      greater understanding of UMG, Materials and programming with Blueprint in
+      Unreal Engine. All of the UI here was created, implemented and mostly
+      programmed by myself from start to finish. 
+  - type: FeaturedItemsSection
+    title: Other Projects | 2014-2022
+    subtitle: >-
+      It's Only Money was made by only 5 full-time devs including myself,
+      because of that you'll see that I managed to get my hands into a lot
+      aspects of the game. During my time with Usual Suspects I was able to push
+      myself much further not just in terms of UI/UX design but also getting a
+      greater understanding of UMG, Materials and programming with Blueprint in
+      Unreal Engine. All of the UI here was created, implemented and mostly
+      programmed by myself from start to finish. 
+    items:
+      - type: FeaturedItem
+        title: The HUD
+        subtitle: ''
+        text: >
+          An overview of the HUD in It's Only Money and some insight of the
+          creative decisions taken with the layout and how some of the elements
+          came to be.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: ''
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-    colors: colors-f
-    variant: variant-a
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Customisation Screens
+        subtitle: ''
+        text: >
+          Customisation is a big part of It's Only Money, not just to do with
+          the Character, but also their Vehicles and Houses as well.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Metro Dungeon
+        subtitle: ''
+        text: >
+          A rogue-lite experience where I had full creative power over the Game
+          Design, Level Design & Lighting, and of course the UI/UX. Completed
+          from start to finish with a programmer in 6 weeks.
+        featuredImage:
+          type: ImageBlock
+          url: /images/gallery-4.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-a
+    columns: 3
+    spacingX: 24
+    spacingY: 64
     elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
-          - pt-24
-          - pb-24
+          - pt-28
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
@@ -327,51 +410,13 @@ sections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: center
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
+        justifyContent: flex-start
   - type: CtaSection
-    title: "Contact Me \U0001F4E7"
+    title: "Contact Me \U0001F4AC"
     text: |
       Email "hey" @ this domain
 
-      or via any social media account below.
+      or reach out through any social media account below.
     actions: []
     colors: colors-c
     backgroundSize: full
