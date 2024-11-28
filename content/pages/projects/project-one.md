@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool code project
 colors: colors-b
 date: '2024-11-26'
-client: Usual Suspects
+client: Usual Suspects - It's Only Money
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
