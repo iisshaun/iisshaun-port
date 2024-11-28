@@ -23,7 +23,7 @@ media:
   loop: false
   muted: false
   controls: true
-  aspectRatio: '4:3'
+  aspectRatio: '16:9'
 bottomSections:
   - type: MediaGallerySection
     title: Gallery
