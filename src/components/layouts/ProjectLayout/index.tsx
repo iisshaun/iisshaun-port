@@ -37,14 +37,14 @@ const Component: React.FC<ComponentProps> = (props) => {
                                 <h1 className="md:max-w-2xl md:flex-grow">{title}</h1>
                             </div>
                         </header>
-                        {description && <div className="text-xl leading-normal uppercase max-w-5xl mx-auto mb-10 sm:mb-16">{description}</div>}
+                        {description && <div className="text-xl leading-normal uppercase max-w-screen-lg mx-auto mb-10 sm:mb-16">{description}</div>}
                         {media && (
                             <div className="mb-10 sm:mb-16">
                                 <ProjectMedia media={media} />
                             </div>
                         )}
                         {markdownContent && (
-                            <Markdown options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }} className="sb-markdown max-w-5xl mx-auto">
+                            <Markdown options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }} className="sb-markdown max-w-screen-lg mx-auto">
                                 {markdownContent}
                             </Markdown>
                         )}
