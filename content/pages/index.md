@@ -97,13 +97,12 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
-    text: >+
-      <iframe width="100%" height="100%"
-      src="https://www.youtube.com/embed/jZL6df9SVTE?si=t5j97wmxvVpaqkye"
-      title="YouTube video player" frameborder="0" allow="accelerometer;
-      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-      web-share" referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen></iframe>
+    text: |+
+      ```
+        <div style="position:relative;padding-top:56.25%;"><iframe src="https://www.youtube.com/embed/nckseQJ1Nlg" frameborder="0" allowfullscreenstyle="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+      ```
+
+
 
     elementId: ''
     styles:
