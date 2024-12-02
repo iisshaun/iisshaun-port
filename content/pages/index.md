@@ -122,7 +122,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: Usual Suspects | 2022-2024
+    title: ''
     items:
       - type: FeaturedItem
         title: The HUD
