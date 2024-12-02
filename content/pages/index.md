@@ -93,8 +93,36 @@ sections:
       text:
         textAlign: left
     subtitle: ''
-  - type: FeaturedItemsSection
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
     title: Usual Suspects | 2022-2024
+    text: |
+      <div>
+        <div style="position:relative;padding-top:56.25%;">
+          <iframe src="https://www.youtube.com/embed/jZL6df9SVTE?si=YyZVwKnop_ql28k4" frameborder="0" allowfullscreen
+            style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+        </div>
+      </div>
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: FeaturedItemsSection
+    title: ''
     items:
       - type: FeaturedItem
         title: The HUD
@@ -266,8 +294,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-36
+          - pt-0
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
@@ -383,7 +411,7 @@ sections:
         width: wide
         padding:
           - pt-28
-          - pb-36
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
