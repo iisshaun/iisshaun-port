@@ -97,18 +97,13 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
-    text: >+
-      ```
-
+    text: >
       <iframe width="560" height="315"
-      src="https\://www\.youtube.com/embed/jZL6df9SVTE?si=t5j97wmxvVpaqkye"
+      src="https\\://www\\.youtube.com/embed/jZL6df9SVTE?si=t5j97wmxvVpaqkye"
       title="YouTube video player" frameborder="0" allow="accelerometer;
       autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
       web-share" referrerpolicy="strict-origin-when-cross-origin"
       allowfullscreen></iframe>
-
-      ```
-
     elementId: ''
     styles:
       self:
