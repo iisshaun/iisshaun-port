@@ -97,7 +97,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
-    text: |
+    text: |-
       <div>
         <div style="position:relative;padding-top:56.25%;">
           <iframe src="https\://www\.youtube.com/watch?v=jZL6df9SVTE" frameborder="0" allowfullscreen
