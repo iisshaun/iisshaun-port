@@ -96,7 +96,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: Usual Suspects | 2022-2024
     text: |
       <div>
         <div style="position:relative;padding-top:56.25%;">
