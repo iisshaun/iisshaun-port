@@ -98,7 +98,7 @@ sections:
     variant: variant-a
     title: The Section Title
     text: >+
-      <iframe width=100% height=100%
+      <iframe width="100%" height="100%"
       src="https://www.youtube.com/embed/jZL6df9SVTE?si=t5j97wmxvVpaqkye"
       title="YouTube video player" frameborder="0" allow="accelerometer;
       autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
