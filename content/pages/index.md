@@ -135,7 +135,7 @@ sections:
           type: ImageBlock
           url: /images/HUDoverview.jpg
           altText: Image of the HUD
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         actions:
           - type: Button
