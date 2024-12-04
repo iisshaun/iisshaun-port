@@ -134,7 +134,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/HUDoverview.jpg
-          altText: Item image
+          altText: Image of the HUD
           caption: Caption of the image
           elementId: ''
         actions:
