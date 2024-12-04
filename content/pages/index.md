@@ -133,7 +133,7 @@ sections:
           came to be.
         featuredImage:
           type: ImageBlock
-          url: /images/gallery-4.jpg
+          url: /images/HUDoverview.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
