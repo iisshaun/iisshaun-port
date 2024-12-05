@@ -127,7 +127,7 @@ sections:
       - type: FeaturedItem
         title: The HUD
         subtitle: ''
-        text: >
+        text: >+
           <div>
             <div style="position:relative;padding-top:56.25%;">
               <iframe src="https://www.youtube.com/embed/jZL6df9SVTE?si=YyZVwKnop_ql28k4" frameborder="0" allowfullscreen
@@ -135,9 +135,9 @@ sections:
             </div>
           </div>
 
-          An overview of the HUD in It's Only Money and some insight of the
-          creative decisions taken with the layout and how some of the elements
-          came to be.
+          An overview of the HUD and some insight on the creative and functional
+          decisions taken with the layout and elements inside.
+
         featuredImage:
           type: ImageBlock
           altText: Image of the HUD
