@@ -136,6 +136,11 @@ sections:
           </div>
 
 
+          <a href="https://bsky.app/profile/idiot.bsky.social">
+           ![](/images/HUDoverview.jpg)
+          </a>
+
+
           An overview of the HUD and some insight on the creative and functional
           decisions taken with the layout and elements inside.
         featuredImage:
