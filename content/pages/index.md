@@ -127,17 +127,16 @@ sections:
       - type: FeaturedItem
         title: The HUD
         subtitle: ''
-        text: >+
+        text: >
           <div>
             <div style="position:relative;padding-top:56.25%;">
-              <iframe src="https://www.youtube.com/embed/jZL6df9SVTE?si=YyZVwKnop_ql28k4" frameborder="0" allowfullscreen
+              <iframe src="https\://youtu.be/m4Kj5D99-mw" frameborder="0" allowfullscreen
                 style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
             </div>
           </div>
 
           An overview of the HUD and some insight on the creative and functional
           decisions taken with the layout and elements inside.
-
         featuredImage:
           type: ImageBlock
           altText: Image of the HUD
