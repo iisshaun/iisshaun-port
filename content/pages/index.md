@@ -141,7 +141,6 @@ sections:
           </div>
         featuredImage:
           type: ImageBlock
-          url: /images/HUDoverview.jpg
           altText: Image of the HUD
           caption: ''
           elementId: ''
