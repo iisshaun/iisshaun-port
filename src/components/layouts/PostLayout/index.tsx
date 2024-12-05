@@ -39,7 +39,7 @@ const Component: React.FC<ComponentProps> = (props) => {
                             </div>
                         )}
                         {markdownContent && (
-                            <Markdown options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }} className="sb-markdown max-w-screen-md mx-auto">
+                            <Markdown options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }} className="sb-markdown max-w-screen-lg mx-auto">
                                 {markdownContent}
                             </Markdown>
                         )}
