@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Management '
+title: Management - It's Only Money
 date: '2024-12-16'
 client: Awesome client
 description: >-
