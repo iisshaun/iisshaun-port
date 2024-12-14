@@ -262,12 +262,6 @@ sections:
 
           An overview of the terminals for managing business and world upgrades,
           an ATM for money management and the game's Settings menu.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
