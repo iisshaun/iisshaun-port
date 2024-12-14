@@ -155,7 +155,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Customisation Screens
+        title: Customisation
         subtitle: ''
         text: >
           <a href="https://iisshaun.com/projects/iom-customisation/">
