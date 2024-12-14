@@ -97,9 +97,18 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Usual Suspects | 2022-2024
-    text: |+
-      Watch the launch trailer here!
+    text: >
+      It's Only Money was made by only 5 full-time devs including myself,
+      because of that you'll see that I managed to get my hands into a lot
+      aspects of the game. During my time with Usual Suspects I was able to push
+      myself much further not just in terms of UI/UX design but also getting a
+      greater understanding of UMG, Materials and programming with Blueprint in
+      Unreal Engine. All of the UI here was created, implemented and mostly
+      programmed by myself from start to finish.
 
+
+      [Watch the launch trailer
+      here!](https://www.youtube.com/watch?v=jZL6df9SVTE)
     elementId: ''
     styles:
       self:
