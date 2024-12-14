@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: The HUD - It's Only Money
 date: '2024-12-12'
-client: Awesome client
+client: Usual Suspects
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
