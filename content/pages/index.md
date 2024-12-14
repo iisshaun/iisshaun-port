@@ -270,7 +270,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: /projects/iom-management
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
