@@ -7,11 +7,15 @@ description: >-
   An overview of the HUD and some insight on the creative and functional
   decisions taken with the layout and elements inside.
 media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
-  caption: Caption of the image
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
   elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 addTitleSuffix: true
 colors: colors-b
 backgroundImage:
