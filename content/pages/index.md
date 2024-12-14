@@ -191,6 +191,15 @@ sections:
         title: Metro Dungeon
         subtitle: ''
         text: >
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/75_ZNsFZBzM?si=EUFok-wROPJ29vN7"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
           A rogue-lite experience where I had full creative power over the Game
           Design, Level Design & Lighting, and of course the UI/UX. Completed
           from start to finish with a programmer in 6 weeks.
