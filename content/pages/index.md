@@ -329,9 +329,9 @@ sections:
         title: Icarus
         subtitle: ''
         text: >
-          An overview of the HUD in It's Only Money and some insight of the
-          creative decisions taken with the layout and how some of the elements
-          came to be.
+          I joined the team working on ICARUS in the later part of its
+          development. Mainly helping out with the HUD, Accolades, Marketing and
+          the Steam Store page.
         actions:
           - type: Button
             label: ''
