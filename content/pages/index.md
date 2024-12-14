@@ -165,12 +165,6 @@ sections:
 
           Customisation is a big part of It's Only Money, not just to do with
           the Character, but also their Vehicles and Houses as well.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
