@@ -42,3 +42,6 @@ This ticker also shows the wallet and bank limits as lerping bars that change co
 
 ![](/images/ItemsIn.jpg)
 
+Items coming in to the player's inventory was also quite important. In this area I put an encumbrance bar that appears for a couple of seconds when over 80% weight capacity, and when the player reaches 95% this bar stays on screen so they're not surprised when they reach the limit or go over.
+
+Above that I show the items they've just received in their inventory (ManageMe app), along with the name and sell price of those items. I also show items they receive for their houses, wardrobe and other unlocks with appropriate labels for which app or area in the game they can access them. 
