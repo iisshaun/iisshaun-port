@@ -251,6 +251,15 @@ sections:
         title: Management Screens
         subtitle: ''
         text: >
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/OcK6yvFiJHg?si=c6zeNa5WZ62mRBxi"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
           An overview of the terminals for managing business and world upgrades,
           an ATM for money management and the game's Settings menu.
         featuredImage:
