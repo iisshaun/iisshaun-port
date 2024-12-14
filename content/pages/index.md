@@ -129,7 +129,7 @@ sections:
         subtitle: ''
         text: >
           <a href="https://iisshaun.com/projects/iom-hud/">
-             !\[]\(/images/HUDoverview\.jpg)
+             ![](/images/HUDoverview\.jpg)
           </a>
 
 
