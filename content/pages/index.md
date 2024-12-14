@@ -268,7 +268,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: /projects/iom-management
             showIcon: true
