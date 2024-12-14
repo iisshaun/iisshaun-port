@@ -143,7 +143,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /
+            url: /iom-hud
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
