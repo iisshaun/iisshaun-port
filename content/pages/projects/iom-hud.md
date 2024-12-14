@@ -8,7 +8,7 @@ description: >-
   decisions taken with the layout and elements inside.
 media:
   type: VideoBlock
-  title: Title of the video
+  title: HUD Overview
   url: 'https://youtu.be/m4Kj5D99-mw'
   elementId: ''
   autoplay: false
