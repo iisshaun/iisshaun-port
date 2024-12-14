@@ -4,8 +4,9 @@ title: Metro Dungeon - It's Only Money
 date: '2024-12-14'
 client: Usual Suspects
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A rogue-lite experience where I had full creative power over the Game Design,
+  Level Design & Lighting, and of course the UI/UX. Completed from start to
+  finish with a programmer in 6 weeks.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
