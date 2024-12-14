@@ -133,9 +133,9 @@ sections:
         title: The HUD
         subtitle: ''
         text: >
-          <iframe width="1280" height="720"
+          <iframe
           src="https://www.youtube.com/embed/m4Kj5D99-mw?si=ukfy-NkMXxzqzkFN"
-          title="It&#39;s Only Money Launch Trailer" frameborder="0"
+          title="It's Only Money Launch Trailer" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media;
           gyroscope; picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"
