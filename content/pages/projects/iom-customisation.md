@@ -4,8 +4,8 @@ title: Customisation Screens - It's Only Money
 date: '2024-12-13'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Customisation is a big part of It's Only Money, not just to do with the
+  Character, but also their Vehicles and Houses as well.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
