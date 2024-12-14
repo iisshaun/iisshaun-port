@@ -347,7 +347,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Customisation Screens
+        title: Stationeers
         subtitle: ''
         text: >
           Customisation is a big part of It's Only Money, not just to do with
