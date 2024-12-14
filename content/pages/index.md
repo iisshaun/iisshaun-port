@@ -241,7 +241,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /projects/phone
+            url: /projects/iom-phone
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
