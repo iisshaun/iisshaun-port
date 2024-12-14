@@ -127,13 +127,14 @@ sections:
       - type: FeaturedItem
         title: The HUD
         subtitle: ''
-        text: >
+        text: >+
           <a href="https://iisshaun.com/projects/iom-hud/">
-           !\[]\(/images/HUDoverview\.jpg)
+             !\[]\(/images/HUDoverview\.jpg)
           </a>
 
           An overview of the HUD and some insight on the creative and functional
           decisions taken with the layout and elements inside.
+
         featuredImage:
           type: ImageBlock
           altText: Image of the HUD
