@@ -368,7 +368,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: New Blood + Side Quests
+        title: New Blood + Misc
         subtitle: ''
         text: >
           A rogue-lite experience where I had full creative power over the Game
