@@ -32,7 +32,7 @@ featuredImage:
   elementId: ''
 bottomSections: []
 ---
-<div style="text-align: center">![](/images/MoneyTicker.jpg)</div>
+<div style="text-align: left">![](/images/MoneyTicker.jpg)</div>
 
 The first thing I got my hands on when starting on It's Only Money was the Money Ticker - an important part of the HUD as making money is the main goal of the game and it needed to feel satisfying to make and spend money. Five pieces of information get shown here, the current amount of cash in the player's wallet, their wallet limit, their bank card amount and limit, and the delta amount of cash coming in or going out of their wallet.
 
@@ -48,4 +48,24 @@ Above that I show the items they've just received in their inventory (ManageMe a
 
 ![](/images/BountyTicker.jpg)
 
-This here we call the Bounty Ticker.
+In action here is the Bounty Ticker. Crime is a big part of an open-world crime game, go figure, so tracking and showing the player their bounty amount and bounty tier is important. When a crime is committed, the siren lights up top will flash and a popup will show how much the bounty is increased by, what the crime was and who committed it (handy in multiplayer as it's a shared bounty). Below the bounty amount is the current tier, shown by name and also a light bar with four levels. At the bottom are the current cops patrolling the area, when attacked they flash red, when defeated they ghost out and when spotted they get icon added to them. 
+
+![](/images/Vitals.jpg)
+
+Vitals! They are vital on a HUD. When not in combat mode the player is shown their Health, Hunger and Stamina. Increasing the hunger bar will give the player a buff to their damage multiplier.
+
+Entering combat mode the vitals area animates and grows to show more information and emphasizes the Health and Stamina dials that become more important when fighting. Now the player can see their Combat Moves they have equipped, their current weapon and its durability along with the amount of damage it will produce. Each part animates as you'd expect, with particles spawned when healing, dials shaking and glowing red when damage is taken or durability is lost and Moves cooling down de-saturate and show the cooldown time with a progress bar and text.
+
+ITEM HOTBAR IMAGE
+
+The pinned items hotbar in the bottom left of the screen works like any other hotbar to select an item to be held and interacted with. It also has a quick select screen that pops up when the player holds the matching slot key/button. This screen lets the player quickly swap out a pinned item to anything else from their ManageMe inventory and has filters that can be turned off or reconfigured in ManageMe to determine what item types autofill that slot in the future. 
+
+#### Other parts of the HUD you'll notice in the overview video:
+
+The Inspection Panel when following civilians shows different attributes of that civilian so they can determine if it's worth it to pickpocket or fight them.
+
+The ModShop panel shows on vehicles and informs the player about what mods are installed on a parked vehicle and if they're discovered or not - letting them decide if it's worth stealing and crushing for the undiscovered parts.
+
+The Compass at the top of screen was a later addition that came during Early Access after a lot of requests. The location pins fade in and grow as the players gets closer them. To help with readability I also made them tint a little darker if they were further away as lot of them can overlap. Undiscovered pins show here as well as grey question marks and I found that really useful for players to discover more parts of the city they might have missed.
+
+The EXP bar and popups also came at the end of Early Access. The EXP popup runs on a timer and if more xp is gained while a popup is still visible it will add to it and replay the animation. When EXP is gained the bar in the top right will flash in a similar colour to the icon while it lerps and the bar will expand to alert the player if they have stat upgrade points ready to spend. 
