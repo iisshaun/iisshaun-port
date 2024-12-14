@@ -4,8 +4,8 @@ title: The HUD - It's Only Money
 date: '2024-12-12'
 client: Usual Suspects
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  An overview of the HUD and some insight on the creative and functional
+  decisions taken with the layout and elements inside.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
