@@ -355,7 +355,7 @@ sections:
           trailers and anything else 2D related. 
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: /
             showIcon: true
