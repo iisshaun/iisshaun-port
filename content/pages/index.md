@@ -371,9 +371,9 @@ sections:
         title: New Blood / Misc
         subtitle: ''
         text: >
-          A rogue-lite experience where I had full creative power over the Game
-          Design, Level Design & Lighting, and of course the UI/UX. Completed
-          from start to finish with a programmer in 6 weeks.
+          The logo for New Blood Interactive was my first ever creation in Adobe
+          Illustrator. Read more for some extra miscellaneous pieces I've worked
+          on in the past. 
         actions:
           - type: Button
             label: ''
