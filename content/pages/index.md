@@ -158,6 +158,11 @@ sections:
         title: Customisation Screens
         subtitle: ''
         text: >
+          <a href="https://iisshaun.com/projects/iom-customisation/">
+             ![](/images/HUDoverview.jpg)
+          </a>
+
+
           Customisation is a big part of It's Only Money, not just to do with
           the Character, but also their Vehicles and Houses as well.
         featuredImage:
