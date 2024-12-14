@@ -97,13 +97,18 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Usual Suspects | 2022-2024
-    text: |
-      <div>
-        <div style="position:relative;padding-top:56.25%;">
-          <iframe src="https://www.youtube.com/embed/jZL6df9SVTE?si=YyZVwKnop_ql28k4" frameborder="0" allowfullscreen
-            style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-        </div>
-      </div>
+    text: >
+      It's Only Money was made by only 5 full-time devs including myself,
+      because of that you'll see that I managed to get my hands into a lot
+      aspects of the game. During my time with Usual Suspects I was able to push
+      myself much further not just in terms of UI/UX design but also getting a
+      greater understanding of UMG, Materials and programming with Blueprint in
+      Unreal Engine. All of the UI here was created, implemented and mostly
+      programmed by myself from start to finish.
+
+
+      [Watch the launch trailer
+      here!](https://www.youtube.com/watch?v=jZL6df9SVTE)
     elementId: ''
     styles:
       self:
@@ -128,18 +133,17 @@ sections:
         title: The HUD
         subtitle: ''
         text: >
-          <a href="https://iisshaun.com/projects/iom-hud/">
-             ![](/images/HUDoverview\.jpg)
-          </a>
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/m4Kj5D99-mw?si=ukfy-NkMXxzqzkFN"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
 
 
           An overview of the HUD and some insight on the creative and functional
           decisions taken with the layout and elements inside.
-        featuredImage:
-          type: ImageBlock
-          altText: Image of the HUD
-          caption: ''
-          elementId: ''
         actions:
           - type: Button
             label: Read More
@@ -155,22 +159,25 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Customisation Screens
-        subtitle: dsdasda
+        title: Customisation
+        subtitle: ''
         text: >
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/JIeTCDZ1Po4?si=VXdZfjpHrky1elkI"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
           Customisation is a big part of It's Only Money, not just to do with
           the Character, but also their Vehicles and Houses as well.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
-            url: /
+            url: projects/iom-customisation
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
@@ -184,20 +191,23 @@ sections:
         title: Metro Dungeon
         subtitle: ''
         text: >
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/75_ZNsFZBzM?si=EUFok-wROPJ29vN7"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
           A rogue-lite experience where I had full creative power over the Game
           Design, Level Design & Lighting, and of course the UI/UX. Completed
           from start to finish with a programmer in 6 weeks.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
-            url: /
+            url: /projects/iom-metrodungeon
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
@@ -211,50 +221,56 @@ sections:
         title: Phone System
         subtitle: ''
         text: >
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/WOB06We0CEg?si=NDD5VXgXhk7bOQEU"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
           The Phone hosts a lot of "Apps" for the player to manage their
           inventory and character, track quests and start mini-games, interact
           with the map, play multiplayer, track accolades and more.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
             textAlign: left
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
-            url: /
+            url: /projects/iom-phone
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
             style: secondary
             elementId: ''
       - type: FeaturedItem
-        title: Management Screens
+        title: Management
         subtitle: ''
         text: >
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/OcK6yvFiJHg?si=c6zeNa5WZ62mRBxi"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
           An overview of the terminals for managing business and world upgrades,
           an ATM for money management and the game's Settings menu.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
             textAlign: left
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
-            url: /
+            url: /projects/iom-management
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
@@ -266,12 +282,6 @@ sections:
         text: >
           Everything from the game logo to Steam assets, physical media for
           expos to the in-game brands.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
@@ -308,14 +318,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: >-
-      It's Only Money was made by only 5 full-time devs including myself,
-      because of that you'll see that I managed to get my hands into a lot
-      aspects of the game. During my time with Usual Suspects I was able to push
-      myself much further not just in terms of UI/UX design but also getting a
-      greater understanding of UMG, Materials and programming with Blueprint in
-      Unreal Engine. All of the UI here was created, implemented and mostly
-      programmed by myself from start to finish. 
+    subtitle: ''
   - type: FeaturedItemsSection
     title: Other Projects | 2014-2022
     subtitle: >-
