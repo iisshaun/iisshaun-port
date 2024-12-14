@@ -12,11 +12,6 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
-media:
-  type: ImageBlock
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
 addTitleSuffix: true
 colors: colors-b
 ---
