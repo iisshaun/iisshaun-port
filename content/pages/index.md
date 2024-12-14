@@ -376,7 +376,7 @@ sections:
           on in the past. 
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: /
             showIcon: true
