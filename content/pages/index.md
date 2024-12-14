@@ -169,7 +169,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: projects/iom-customisation
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
