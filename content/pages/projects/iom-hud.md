@@ -54,7 +54,7 @@ Vitals! They are vital on a HUD. When not in combat mode the player is shown the
 
 Entering combat mode the vitals area animates and grows to show more information and emphasizes the Health and Stamina dials that become more important when fighting. Now the player can see their Combat Moves they have equipped, their current weapon and its durability along with the amount of damage it will produce. Each part animates as you'd expect, with particles spawned when healing, dials shaking and glowing red when damage is taken or durability is lost and Moves cooling down de-saturate and show the cooldown time with a progress bar and text.
 
-ITEM HOTBAR IMAGE
+![](/images/PinnedItemsx.jpg)
 
 The pinned items hotbar in the bottom left of the screen works like any other hotbar to select an item to be held and interacted with. It also has a quick select screen that pops up when the player holds the matching slot key/button. This screen lets the player quickly swap out a pinned item to anything else from their ManageMe inventory and has filters that can be turned off or reconfigured in ManageMe to determine what item types autofill that slot in the future.
 
