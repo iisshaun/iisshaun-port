@@ -128,12 +128,9 @@ sections:
         title: The HUD
         subtitle: ''
         text: >
-          <div>
-            <div style="position:relative;padding-top:56.25%;">
-              <iframe src="https://www.youtube.com/embed/m4Kj5D99-mw?si=5PHSS616EhGQyJrM" frameborder="0" allowfullscreen
-                style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-            </div>
-          </div>
+          <a href="https://iisshaun.com/projects/iom-hud/">
+             ![](/images/HUDoverview\.jpg)
+          </a>
 
 
           An overview of the HUD and some insight on the creative and functional
@@ -147,7 +144,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /
+            url: projects/iom-hud/
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
@@ -159,7 +156,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Customisation Screens
-        subtitle: ''
+        subtitle: dsdasda
         text: >
           Customisation is a big part of It's Only Money, not just to do with
           the Character, but also their Vehicles and Houses as well.
