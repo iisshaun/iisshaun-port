@@ -19,3 +19,16 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
+Business management and old school operating systems go hand in hand visually, that's why I went for the nostalgic 98 look and a bit of XP gaudiness for these screens.
+
+IMAGE OF SLIMEWAY
+
+This is where I first started with a lot of the elements for these screens. The CRT shader made it's way into a lot of other screens and the 98 theme was very reusable and malleable too. The old style bitmap icons were a lot of fun to make as well.
+
+IMAGE OF ATM
+
+The ATM let me go for that classic XP style, because ATM software has never looked very slick. The credit cards were also a fun way to get some more skeuomorphism in there, especially with the chrome digits that show the bank balance.
+
+IMAGE OF Settings
+
+The Settings menu redesign was also very quick to do since the functionally of it was all there and again the 98 style was already well established in the project so it was mostly just a reskin. 
