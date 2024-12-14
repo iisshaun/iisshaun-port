@@ -128,8 +128,8 @@ sections:
         title: The HUD
         subtitle: ''
         text: >
-          <a href="https://bsky.app/profile/idiot.bsky.social">
-           ![](/images/HUDoverview.jpg)
+          <a href="https\://iisshaun.com/projects/iom-hud/">
+           !\[]\(/images/HUDoverview\.jpg)
           </a>
 
           An overview of the HUD and some insight on the creative and functional
