@@ -326,7 +326,7 @@ sections:
       RocketWerkz, New Blood and Deep Field. 
     items:
       - type: FeaturedItem
-        title: The HUD
+        title: Icarus
         subtitle: ''
         text: >
           An overview of the HUD in It's Only Money and some insight of the
