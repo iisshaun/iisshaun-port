@@ -40,4 +40,5 @@ Because this widget gets used in a lot more places than just the HUD I'd set up 
 
 This ticker also shows the wallet and bank limits as lerping bars that change colour as they get closer to the limits. When at the wallet limit, the green border would become full and red, a lock would appear over the cash icon and the digits would momentarily disappear to allow "Cash Limit Reached" text to appear. The whole ticker would also shrink and animate away the bank cards when the player wasn't in a shop or when money wasn't being transferred in or out.
 
-<br>![](/images/ItemsIn.jpg)
+![](/images/ItemsIn.jpg)
+
