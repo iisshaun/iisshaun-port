@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Phone Systems
 date: '2024-12-15'
 client: Usual Suspects
 description: >-
