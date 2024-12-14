@@ -282,12 +282,6 @@ sections:
         text: >
           Everything from the game logo to Steam assets, physical media for
           expos to the in-game brands.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
