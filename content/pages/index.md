@@ -195,12 +195,6 @@ sections:
           A rogue-lite experience where I had full creative power over the Game
           Design, Level Design & Lighting, and of course the UI/UX. Completed
           from start to finish with a programmer in 6 weeks.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
