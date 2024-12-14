@@ -332,12 +332,6 @@ sections:
           An overview of the HUD in It's Only Money and some insight of the
           creative decisions taken with the layout and how some of the elements
           came to be.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
