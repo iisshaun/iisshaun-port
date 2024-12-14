@@ -162,9 +162,13 @@ sections:
         title: Customisation
         subtitle: ''
         text: >
-          <a href="https://iisshaun.com/projects/iom-customisation/">
-             ![](/images/HUDoverview.jpg)
-          </a>
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/JIeTCDZ1Po4?si=VXdZfjpHrky1elkI"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
 
 
           Customisation is a big part of It's Only Money, not just to do with
