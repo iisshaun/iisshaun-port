@@ -334,7 +334,7 @@ sections:
           the Steam Store page.
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: /
             showIcon: true
