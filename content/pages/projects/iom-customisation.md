@@ -16,7 +16,7 @@ addTitleSuffix: true
 colors: colors-b
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Customisation Overview
   url: 'https://youtu.be/JIeTCDZ1Po4'
   elementId: ''
   autoplay: false
