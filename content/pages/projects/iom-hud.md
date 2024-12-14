@@ -9,7 +9,7 @@ description: >-
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: 'https://youtu.be/m4Kj5D99-mw'
   elementId: ''
   autoplay: false
   loop: false
