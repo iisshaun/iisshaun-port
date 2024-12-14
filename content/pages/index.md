@@ -167,7 +167,7 @@ sections:
           the Character, but also their Vehicles and Houses as well.
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: projects/iom-customisation
             showIcon: true
