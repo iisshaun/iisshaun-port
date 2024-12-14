@@ -248,7 +248,7 @@ sections:
             style: secondary
             elementId: ''
       - type: FeaturedItem
-        title: Management Screens
+        title: Management
         subtitle: ''
         text: >
           <iframe width="100%" height="219px"
