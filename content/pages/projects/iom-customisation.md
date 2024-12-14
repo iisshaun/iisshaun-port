@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Customisation Screens - It's Only Money
 date: '2024-12-13'
-client: Awesome client
+client: Usual Suspects
 description: >-
   Customisation is a big part of It's Only Money, not just to do with the
   Character, but also their Vehicles and Houses as well.
