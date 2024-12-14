@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Phone System
+title: Phone System - It's Only Money
 date: '2024-12-15'
 client: Usual Suspects
 description: >-
