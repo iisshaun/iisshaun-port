@@ -17,7 +17,7 @@ addTitleSuffix: true
 colors: colors-b
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Metro Dungeon
   url: 'https://youtu.be/75_ZNsFZBzM'
   elementId: ''
   autoplay: false
