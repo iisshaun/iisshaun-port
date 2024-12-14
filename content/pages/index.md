@@ -133,9 +133,13 @@ sections:
         title: The HUD
         subtitle: ''
         text: >
-          <a href="https://iisshaun.com/projects/iom-hud/">
-             ![](/images/HUDoverview\.jpg)
-          </a>
+          <iframe width="1280" height="720"
+          src="https://www.youtube.com/embed/m4Kj5D99-mw?si=ukfy-NkMXxzqzkFN"
+          title="It&#39;s Only Money Launch Trailer" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+          gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
 
 
           An overview of the HUD and some insight on the creative and functional
