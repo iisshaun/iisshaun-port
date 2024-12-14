@@ -32,7 +32,7 @@ featuredImage:
   elementId: ''
 bottomSections: []
 ---
-![](/images/MoneyTicker.jpg)
+<div style="text-align: center">![](/images/MoneyTicker.jpg)</div>
 
 The first thing I got my hands on when starting on It's Only Money was the Money Ticker - an important part of the HUD as making money is the main goal of the game and it needed to feel satisfying to make and spend money. Five pieces of information get shown here, the current amount of cash in the player's wallet, their wallet limit, their bank card amount and limit, and the delta amount of cash coming in or going out of their wallet.
 
@@ -46,8 +46,6 @@ Items coming in to the player's inventory was also quite important. In this area
 
 Above that I show the items they've just received in their inventory (ManageMe app), along with the name and sell price of those items. I also show items they receive for their houses, wardrobe and other unlocks with appropriate labels for which app or area in the game they can access them.
 
-
-
 ![](/images/BountyTicker.jpg)
 
-This here we call the Bounty Ticker. 
+This here we call the Bounty Ticker.
