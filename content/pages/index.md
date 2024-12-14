@@ -368,7 +368,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Metro Dungeon
+        title: New Blood + Side Quests
         subtitle: ''
         text: >
           A rogue-lite experience where I had full creative power over the Game
