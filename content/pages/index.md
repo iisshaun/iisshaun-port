@@ -326,21 +326,15 @@ sections:
       RocketWerkz, New Blood and Deep Field. 
     items:
       - type: FeaturedItem
-        title: The HUD
+        title: Icarus
         subtitle: ''
         text: >
-          An overview of the HUD in It's Only Money and some insight of the
-          creative decisions taken with the layout and how some of the elements
-          came to be.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
+          I joined the team working on ICARUS in the later part of its
+          development. Mainly helping out with the HUD, Accolades, Marketing and
+          the Steam Store page.
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: /
             showIcon: true
@@ -353,20 +347,15 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Customisation Screens
+        title: Stationeers
         subtitle: ''
         text: >
-          Customisation is a big part of It's Only Money, not just to do with
-          the Character, but also their Vehicles and Houses as well.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
+          Stationeers was the first project I got my hands dirty with inside of
+          Unity. I designed all of the UI, Marketing, Store page and helped with
+          trailers and anything else 2D related. 
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: /
             showIcon: true
@@ -379,21 +368,15 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Metro Dungeon
+        title: New Blood / Misc
         subtitle: ''
         text: >
-          A rogue-lite experience where I had full creative power over the Game
-          Design, Level Design & Lighting, and of course the UI/UX. Completed
-          from start to finish with a programmer in 6 weeks.
-        featuredImage:
-          type: ImageBlock
-          url: /images/gallery-4.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
+          The logo for New Blood Interactive was my first ever creation in Adobe
+          Illustrator. Read more for some extra miscellaneous pieces I've worked
+          on in the past. 
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: /
             showIcon: true
