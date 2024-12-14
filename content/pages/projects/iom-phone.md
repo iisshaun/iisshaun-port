@@ -11,7 +11,7 @@ addTitleSuffix: true
 colors: colors-b
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Phone System
   url: 'https://youtu.be/WOB06We0CEg'
   elementId: ''
   autoplay: false
