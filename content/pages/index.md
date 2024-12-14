@@ -288,7 +288,7 @@ sections:
             elementId: ''
     actions: []
     colors: colors-b
-    columns: 4
+    columns: 3
     spacingX: 24
     spacingY: 64
     elementId: ''
