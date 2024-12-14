@@ -221,6 +221,15 @@ sections:
         title: Phone System
         subtitle: ''
         text: >
+          <iframe width="100%" height="219px"
+          src="https://www.youtube.com/embed/WOB06We0CEg?si=NDD5VXgXhk7bOQEU"
+          title="Youtube Video Player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+
           The Phone hosts a lot of "Apps" for the player to manage their
           inventory and character, track quests and start mini-games, interact
           with the map, play multiplayer, track accolades and more.
