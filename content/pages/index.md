@@ -205,7 +205,7 @@ sections:
           from start to finish with a programmer in 6 weeks.
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
             url: /
             showIcon: true
