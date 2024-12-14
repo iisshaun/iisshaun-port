@@ -10,7 +10,7 @@ addTitleSuffix: true
 colors: colors-b
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Management Screens
   url: 'https://www.youtube.com/watch?v=OcK6yvFiJHg'
   elementId: ''
   autoplay: false
