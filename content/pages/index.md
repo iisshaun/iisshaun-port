@@ -350,8 +350,9 @@ sections:
         title: Stationeers
         subtitle: ''
         text: >
-          Customisation is a big part of It's Only Money, not just to do with
-          the Character, but also their Vehicles and Houses as well.
+          Stationeers was the first project I got my hands dirty with inside of
+          Unity. I designed all of the UI, Marketing, Store page and helped with
+          trailers and anything else 2D related. 
         actions:
           - type: Button
             label: ''
