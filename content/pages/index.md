@@ -284,8 +284,8 @@ sections:
           ![](/images/branding.jpg)
 
 
-          Everything from the game logo to Steam assets, physical media for
-          expos to the in-game brands.
+          I made everything from the game logo to Steam store assets, physical
+          media for expos and the in-game brands.
         elementId: ''
         styles:
           self:
