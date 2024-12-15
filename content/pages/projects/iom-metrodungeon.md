@@ -38,6 +38,6 @@ After defeating each wave of enemies the player is given a choice of stats to up
 
 Runs in this gamemode can also be dynamic so the UI for the Timeline had to be as well. Each wave is denoted by a red progress bar that fills as each enemy is knocked out, the white dots are the stat upgrades, yellow icons are the Milestone Relics and the blue ones are the Milestone Moves. We can add and remove waves or Milestones and the timeline UI would dynamically grow to accommodate that.
 
-
+![](/images/graff.jpg)
 
 The graffiti was another fun add and made the whole level feel a lot more bespoke. To make these more performant I opted to not use decals and instead made a billboard foliage tool that would randomise between all of the tags which let me places hundreds of these around the map with ease and not become a burden on lower-end hardware.
