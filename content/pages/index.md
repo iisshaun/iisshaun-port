@@ -288,9 +288,9 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: ''
+            label: Read More
             altText: ''
-            url: /
+            url: /projects/iom-branding
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
