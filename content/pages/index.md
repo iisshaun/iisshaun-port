@@ -326,8 +326,8 @@ sections:
   - type: FeaturedItemsSection
     title: Other Projects | 2014-2022
     subtitle: >-
-      Below are some of the projects I've on over the years for studios like
-      RocketWerkz, New Blood and Deep Field. 
+      Below are some of the projects I've worked on over the years for studios
+      such as RocketWerkz, New Blood and Deep Field Games. 
     items:
       - type: FeaturedItem
         title: Icarus
