@@ -3,9 +3,7 @@ type: ProjectLayout
 title: New Blood / Misc
 date: '2024-12-19'
 client: Misc
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: ''
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
