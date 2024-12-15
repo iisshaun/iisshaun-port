@@ -7,12 +7,6 @@ description: >-
   A rogue-lite experience where I had full creative power over the Game Design,
   Level Design & Lighting, and of course the UI/UX. Completed from start to
   finish with a programmer in 6 weeks.
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
 addTitleSuffix: true
 colors: colors-b
 media:
