@@ -172,8 +172,8 @@ sections:
           allowfullscreen></iframe>
 
 
-          Customisation is a big part of It's Only Money, not just to do with
-          the Character, but also their Vehicles and Houses as well.
+          Customisation is a big part of It's Only Money, not only for the
+          Character, but also the player's Vehicles and Houses as well.
         actions:
           - type: Button
             label: Read More
