@@ -98,13 +98,15 @@ sections:
     variant: variant-a
     title: Usual Suspects | 2022-2024
     text: >
-      It's Only Money was made by only 5 full-time devs including myself,
-      because of this I managed to get my hands on a lot aspects of the game.
-      During my time with Usual Suspects I was able to really push myself
-      further not just in terms of UI/UX design but also gaining greater
-      knowledge of UMG, Materials and programming with Blueprint in Unreal
-      Engine. All of the UI here was created, implemented and mostly programmed
-      by myself from start to finish.
+      It's Only Money was developed by a small team of just five full-time
+      developers, including myself. Because of this, I had the opportunity to be
+      involved in nearly every aspect of the game. During my time with Usual
+      Suspects, I really pushed myself to expand my skills, not only in UI/UX
+      design but also in UMG, materials, and programming with Blueprint in
+      Unreal Engine. I took on the responsibility of creating, implementing,
+      and, for the most part, programming all of the UI from start to finish.
+      This experience allowed me to hone my technical abilities and gain a
+      deeper understanding of the entire development process.
 
 
       [Watch the launch trailer
@@ -330,20 +332,20 @@ sections:
       such as RocketWerkz, New Blood Interactive and Deep Field Games. 
     items:
       - type: FeaturedItem
-        title: Icarus
+        title: New Blood / Misc
         subtitle: ''
         text: >
-          ![](/images/icarus%20sml.jpg)
+          ![](/images/misc.jpg)
 
 
-          I joined the team working on ICARUS in the later stage of its
-          development. Mainly helping out with the HUD, Accolades, Marketing and
-          the Steam Store page.
+          The logo for New Blood Interactive was my first ever creation in Adobe
+          Illustrator. Read more for some extra miscellaneous pieces I've worked
+          on in the past.
         actions:
           - type: Button
             label: Read More
             altText: ''
-            url: /projects/rw-icarus
+            url: /projects/misc
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
@@ -378,20 +380,20 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: New Blood / Misc
+        title: Icarus
         subtitle: ''
         text: >
-          ![](/images/misc.jpg)
+          ![](/images/icarus%20sml.jpg)
 
 
-          The logo for New Blood Interactive was my first ever creation in Adobe
-          Illustrator. Read more for some extra miscellaneous pieces I've worked
-          on in the past.
+          I joined the team working on ICARUS in the later stage of its
+          development. Mainly helping out with the HUD, Accolades, Marketing and
+          the Steam Store page.
         actions:
           - type: Button
             label: Read More
             altText: ''
-            url: /projects/misc
+            url: /projects/rw-icarus
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
@@ -429,11 +431,14 @@ sections:
     title: Currently...
     text: >
       Even though I am extremely comfortable working with the Adobe Suite and
-      Unreal Engine - I am currently working on a project in the Godot Engine
-      mainly to learn GDScript and improve my knowledge writing code vs visual
-      scripting. I'm also using this as an opportunity for me to get comfortable
-      with some other programs like the Affinity Designer, Aseprite, DaVinci
-      Resolve and Ableton.
+      Unreal Engine, I am currently working on a project in the Godot Engine to
+      deepen my understanding of GDScript and improve my coding skills,
+      particularly in comparison to visual scripting. I'm also using this
+      opportunity to get more familiar with other programs, such as Affinity
+      Designer, Aseprite, DaVinci Resolve, and Ableton. So far this has been a
+      great way for me to expand my toolkit and continue growing as a developer
+      and designer, learning new workflows and enhancing my versatility in
+      different areas of game development.
 
 
       I'll have some updates on my progress in time on [my Bluesky
