@@ -329,6 +329,9 @@ sections:
         title: Icarus
         subtitle: ''
         text: >
+          ![](/images/icarus%20sml.jpg)
+
+
           I joined the team working on ICARUS in the later part of its
           development. Mainly helping out with the HUD, Accolades, Marketing and
           the Steam Store page.
@@ -350,9 +353,12 @@ sections:
         title: Stationeers
         subtitle: ''
         text: >
+          ![](/images/stationeer%20sml.jpg)
+
+
           Stationeers was the first project I got my hands dirty with inside of
           Unity. I designed all of the UI, Marketing, Store page and helped with
-          trailers and anything else 2D related. 
+          trailers and anything else 2D related.
         actions:
           - type: Button
             label: Read More
@@ -371,9 +377,12 @@ sections:
         title: New Blood / Misc
         subtitle: ''
         text: >
+          ![](/images/misc.jpg)
+
+
           The logo for New Blood Interactive was my first ever creation in Adobe
           Illustrator. Read more for some extra miscellaneous pieces I've worked
-          on in the past. 
+          on in the past.
         actions:
           - type: Button
             label: Read More
