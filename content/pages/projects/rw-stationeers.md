@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Stationeers
-date: '2024-12-18'
+date: '2024-12-19'
 client: RocketWerkz
 description: >-
   Stationeers was the first project I got my hands dirty with inside of Unity. I
