@@ -48,8 +48,8 @@ sections:
       over five years working with RocketWerkz Studios, contributing to a number
       of projects. Most recently, I’ve had the pleasure of working for nearly
       three years with my friends at Usual Suspects Studios, where I’ve
-      continued to grow and expand my expertise in UI/UX design, programming,
-      and other areas of game development.
+      continued to grow and expand my expertise in UI/UX design, marketing,
+      programming, and other areas of game development.
 
 
       <br>
