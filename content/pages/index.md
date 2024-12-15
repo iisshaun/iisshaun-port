@@ -357,7 +357,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /
+            url: /projects/rw-stationeers
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
