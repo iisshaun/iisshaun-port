@@ -4,8 +4,9 @@ title: The HUD - It's Only Money
 date: '2024-12-12'
 client: Usual Suspects
 description: >-
-  An overview of the HUD and some insight on the creative and functional
-  decisions taken with the layout and elements inside.
+  The HUD for It's Only Money has a ton of unique designs for all of the
+  individual elements. Making all of these cohesive with each other was a fun
+  challenge.
 media:
   type: VideoBlock
   title: HUD Overview
@@ -26,42 +27,44 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
-I wanted to go for a more skeuomorphic design with the HUD for It's Only Money. Being part of a small team and having full control and creative freedom with the UI meant I could go for something less by the books and a bit out of my comfort zone. What I found was that I really enjoyed the ability to add lots of extra details that I might not have with a cleaner more minimalist design.
+For It's Only Money, I aimed for a more skeuomorphic design with the HUD. Being part of a small team with full control and creative freedom over the UI allowed me to break away from traditional approaches and step out of my comfort zone. What I discovered was how much I enjoyed incorporating extra details - something that might have been lost in a cleaner, more minimalist design. It gave the interface more personality and depth, making it a rewarding creative experience.
 
 ![](/images/MoneyTicker.jpg)
 
-The first thing I got my hands on when starting on It's Only Money was the Money Ticker - an important part of the HUD as making money is the main goal of the game and it needed to feel satisfying to make and spend money. Five pieces of information get shown here, the current amount of cash in the player's wallet, their wallet limit, their bank card amount and limit, and the delta amount of cash coming in or going out of their wallet.
+When I first started working on It's Only Money, the first thing I tackled was the Money Ticker - an essential part of the HUD, as making and spending money is the core goal of the game. It needed to feel satisfying and impactful. The ticker displays five key pieces of information: the current cash in the player's wallet, their wallet limit, the amount on their bank card, the bank card limit, and the delta amount of cash being added or removed from the wallet.
 
-Because this widget gets used in a lot more places than just the HUD I'd set up a couple of different functions for adjusting the current amount of cash being held. One would animate the whole ticker, re-rolling each digit and locking them in individually while spewing out or sucking in the difference. This was treated as more of a spectacle for the player, the animation taking longer with satisfying sounds and cash particles dynamically set to how much money was coming in or going out. The less in-your-face quick option that was used more in shop screens would only roll the handful of digits that needed changing and the limit of how many particles would spawn was significantly less.
+Since this widget appears in several places beyond just the HUD, I created a few different functions to adjust the cash amount. One animation would play out the entire ticker, re-rolling each digit individually while dynamically adding or subtracting the difference. This version was designed to be a spectacle, with satisfying sound effects and cash particles that varied in intensity based on how much money was moving in or out. The more subtle, quick version used in shop screens would only animate the digits that needed changing, with fewer particles for a less dramatic effect.
 
-This ticker also shows the wallet and bank limits as lerping bars that change colour as they get closer to the limits. When at the wallet limit, the green border would become full and red, a lock would appear over the cash icon and the digits would momentarily disappear to allow "Cash Limit Reached" text to appear. The whole ticker would also shrink and animate away the bank cards when the player wasn't in a shop or when money wasn't being transferred in or out.
+The ticker also shows the wallet and bank limits as lerping bars, which change colour as they near their maximum values. When the wallet limit is reached, the green border turns red, a lock appears over the cash icon, and the digits briefly disappear to make way for a "Cash Limit Reached" message. When the player isn't in a shop or money isn’t being transferred, the ticker shrinks, and the bank card details animate away.
 
 ![](/images/ItemsIn.jpg)
 
-Items coming in to the player's inventory was also quite important. In this area I put an encumbrance bar that appears for a couple of seconds when over 80% weight capacity, and when the player reaches 95% this bar stays on screen so they're not surprised when they reach the limit or go over.
+The process of adding items to the player's inventory was another key aspect I focused on. To help players manage their weight capacity, I added an encumbrance bar that briefly appears when they exceed 80% of their weight limit. When they hit 95%, the bar stays on screen, ensuring they aren’t caught off guard when they reach or exceed the limit.
 
-Above that I show the items they've just received in their inventory (ManageMe app), along with the name and sell price of those items. I also show items they receive for their houses, wardrobe and other unlocks with appropriate labels for which app or area in the game they can access them.
+Above the encumbrance bar, I display the items they've just received in their inventory through the ManageMe app, showing both the item name and its sell price. For items related to their house, wardrobe, or other game unlocks, I include appropriate labels to indicate which app or area the player can access them from. This keeps everything organised and ensures the player knows exactly where to go to use or sell their newly acquired items.
 
 ![](/images/BountyTicker.jpg)
 
-In action here is the Bounty Ticker. Crime is a big part of an open-world crime game, go figure, so tracking and showing the player their bounty amount and bounty tier is important. When a crime is committed, the siren lights up top will flash and a popup will show how much the bounty is increased by, what the crime was and who committed it (handy in multiplayer as it's a shared bounty). Below the bounty amount is the current tier, shown by name and also a light bar with four levels. At the bottom are the current cops patrolling the area, when attacked they flash red, when defeated they ghost out and when spotted they get icon added to them.
+Here we have the Bounty Ticker in action. Since crime plays a central role in an open-world crime game, tracking and displaying the player's bounty amount and tier is crucial. When a crime is committed, the siren lights flash at the top, and a popup appears showing the increased bounty, detailing the crime and the player responsible (particularly useful in multiplayer, as the bounty is shared).
+
+Below the bounty amount, the current bounty tier is displayed, both by name and as a light bar with four levels to indicate the heat. At the bottom of the ticker, we show the cops currently patrolling the area. When attacked, they flash red; when defeated, they ghost out; and when spotted, an icon appears above them, keeping the player informed of the status of law enforcement in the area.
 
 ![](/images/Vitals.jpg)
 
-Vitals! They are vital on a HUD. When not in combat mode the player is shown their Health, Hunger and Stamina. Increasing the hunger bar will give the player a buff to their damage multiplier.
+Vitals are crucial on a HUD, and in It's Only Money, they play an important role in keeping players informed. When not in combat mode, only the player’s Health, Hunger, and Stamina are displayed. Increasing the hunger bar provides a buff to the player's damage multiplier, adding a strategic element to managing these vitals.
 
-Entering combat mode the vitals area animates and grows to show more information and emphasizes the Health and Stamina dials that become more important when fighting. Now the player can see their Combat Moves they have equipped, their current weapon and its durability along with the amount of damage it will produce. Each part animates as you'd expect, with particles spawned when healing, dials shaking and glowing red when damage is taken or durability is lost and Moves cooling down de-saturate and show the cooldown time with a progress bar and text.
+Once the player enters combat mode, the vitals area animates and expands to reveal more information, with a focus on the Health and Stamina dials, which become more important during fights. In this mode, the player can also see their equipped Combat Moves, their current weapon, its durability, and the damage it will deal. Each part is dynamic - particles appear when healing, the dials shake and glow red when damage is taken or durability decreases, and combat moves de-saturate and show cooldown progress with both a visual progress bar and text.
 
 ![](/images/PinnedItemsx.jpg)
 
-The pinned items hotbar in the bottom left of the screen works like any other hotbar to select an item to be held and interacted with. It also has a quick select screen that pops up when the player holds the matching slot key/button. This screen lets the player quickly swap out a pinned item to anything else from their ManageMe inventory and has filters that can be turned off or reconfigured in ManageMe to determine what item types autofill that slot in the future.
+The pinned items hotbar in the bottom left of the screen functions like any standard hotbar, allowing the player to select an item to hold and interact with. It also features a quick-select screen that appears when the player holds the corresponding slot key or button. This screen enables the player to quickly swap out a pinned item for another from their ManageMe inventory. Additionally, the quick-select screen includes filters that can be toggled on or off, and reconfigured in ManageMe, to control which item types will automatically fill that slot in the future, streamlining the player's inventory management.
 
 #### Other parts of the HUD you'll notice in the overview video:
 
-The Inspection Panel when following civilians shows different attributes of that civilian so they can determine if it's worth it to pickpocket or fight them.
+The Inspection Panel, used when following civilians, displays various attributes of the civilian, allowing players to decide if it's worth pickpocketing or engaging in a fight.
 
-The ModShop panel shows on vehicles and informs the player about what mods are installed on a parked vehicle and if they're discovered or not - letting them decide if it's worth stealing and crushing for the undiscovered parts.
+The ModShop panel, shown when interacting with vehicles, provides information on the mods installed on a parked vehicle, including whether they've been discovered. This helps players determine if it's worth stealing the vehicle and crushing it for undiscovered parts.
 
-The Compass at the top of screen was a later addition that came during Early Access after a lot of requests. The location pins fade in and grow as the players gets closer them. To help with readability I also made them tint a little darker if they were further away as lot of them can overlap. Undiscovered pins show here as well as grey question marks and I found that really useful for players to discover more parts of the city they might have missed.
+The Compass, added later in Early Access after numerous requests, features location pins that fade in and grow larger as players get closer to them. To improve readability, the pins darken slightly if they're farther away, helping with readability when overlapping each other. Undiscovered locations are also marked with grey question marks, encouraging players to explore and discover more of the city.
 
-The EXP bar and popups also came at the end of Early Access. The EXP popup runs on a timer and if more xp is gained while a popup is still visible it will add to it and replay the animation. When EXP is gained the bar in the top right will flash in a similar colour to the icon while it lerps and the bar will expand to alert the player if they have stat upgrade points ready to spend.
+The EXP bar and popups were introduced towards the end of Early Access as well. The EXP popup runs on a timer, adding new XP gains to the existing popup and replaying the animation. When XP is earned, the bar in the top right flashes in the same color as the EXP icon while it smoothly transitions, expanding to alert the player when stat upgrade points are available to be used.
