@@ -4,12 +4,6 @@ title: New Blood / Misc
 date: '2024-12-19'
 client: Misc
 description: ''
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
