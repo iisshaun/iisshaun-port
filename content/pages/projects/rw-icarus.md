@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ICARUS - RocketWerkz
+title: ICARUS
 date: '2024-12-17'
 client: RocketWerkz
 description: >-
