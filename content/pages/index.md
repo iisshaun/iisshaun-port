@@ -98,13 +98,15 @@ sections:
     variant: variant-a
     title: Usual Suspects | 2022-2024
     text: >
-      It's Only Money was made by only 5 full-time devs including myself,
-      because of this I managed to get my hands on a lot aspects of the game.
-      During my time with Usual Suspects I was able to really push myself
-      further not just in terms of UI/UX design but also gaining greater
-      knowledge of UMG, Materials and programming with Blueprint in Unreal
-      Engine. All of the UI here was created, implemented and mostly programmed
-      by myself from start to finish.
+      It's Only Money was developed by a small team of just five full-time
+      developers, including myself. Because of this, I had the opportunity to be
+      involved in nearly every aspect of the game. During my time with Usual
+      Suspects, I really pushed myself to expand my skills, not only in UI/UX
+      design but also in UMG, materials, and programming with Blueprint in
+      Unreal Engine. I took on the responsibility of creating, implementing,
+      and, for the most part, programming all of the UI from start to finish.
+      This experience allowed me to hone my technical abilities and gain a
+      deeper understanding of the entire development process.
 
 
       [Watch the launch trailer
