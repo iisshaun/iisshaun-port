@@ -350,9 +350,12 @@ sections:
         title: Stationeers
         subtitle: ''
         text: >
+          ![](/images/stationeer%20sml.jpg)
+
+
           Stationeers was the first project I got my hands dirty with inside of
           Unity. I designed all of the UI, Marketing, Store page and helped with
-          trailers and anything else 2D related. 
+          trailers and anything else 2D related.
         actions:
           - type: Button
             label: Read More
