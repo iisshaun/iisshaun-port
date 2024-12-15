@@ -354,30 +354,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Icarus
-        subtitle: ''
-        text: >
-          ![](/images/icarus%20sml.jpg)
-
-
-          I joined the team working on ICARUS in the later stage of its
-          development. Mainly helping out with the HUD, Accolades, Marketing and
-          the Steam Store page.
-        actions:
-          - type: Button
-            label: Read More
-            altText: ''
-            url: /projects/rw-icarus
-            showIcon: true
-            icon: arrowUpRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: Stationeers
         subtitle: ''
         text: >
@@ -392,6 +368,30 @@ sections:
             label: Read More
             altText: ''
             url: /projects/rw-stationeers
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Icarus
+        subtitle: ''
+        text: >
+          ![](/images/icarus%20sml.jpg)
+
+
+          I joined the team working on ICARUS in the later stage of its
+          development. Mainly helping out with the HUD, Accolades, Marketing and
+          the Steam Store page.
+        actions:
+          - type: Button
+            label: Read More
+            altText: ''
+            url: /projects/rw-icarus
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
