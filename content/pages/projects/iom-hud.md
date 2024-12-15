@@ -4,8 +4,9 @@ title: The HUD - It's Only Money
 date: '2024-12-12'
 client: Usual Suspects
 description: >-
-  An overview of the HUD and some insight on the creative and functional
-  decisions taken with the layout and elements inside.
+  The HUD for It's Only Money has a ton of unique designs for all of the
+  individual elements. Making all of these cohesive with each other was a fun
+  challenge.
 media:
   type: VideoBlock
   title: HUD Overview
