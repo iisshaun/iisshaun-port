@@ -11,7 +11,7 @@ colors: colors-b
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: 'https://youtu.be/jZL6df9SVTE?si=Jiza1SLjWbgqwIt4'
   elementId: ''
   autoplay: false
   loop: false
