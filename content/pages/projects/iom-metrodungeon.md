@@ -4,7 +4,7 @@ title: Metro Dungeon - It's Only Money
 date: '2024-12-14'
 client: Usual Suspects
 description: >-
-  A rogue-lite experience where I had full creative power over the Game Design,
+  A rogue-lite gamemode where I had full creative control over the Game Design,
   Level Design & Lighting, and of course the UI/UX. Completed from start to
   finish with a programmer in 6 weeks.
 addTitleSuffix: true
@@ -20,24 +20,26 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-Creating the Metro Dungeon was a lot of fun for me and something where I was able to learn a lot of new skills. This was the first proper level I'd created in Unreal, the first time actually writting up a game design doc, along with lighting that level and creating the UI for the new game mode.
+Creating the Metro Dungeon was an incredibly enjoyable experience and a great opportunity for me to learn new skills. It marked my first time designing a full level in Unreal, writing a comprehensive game design document, and working on the lighting for the level. Additionally, I was responsible for creating the UI for the new game mode, making it a truly hands-on project that allowed me to explore and grow in multiple areas.
 
 ![](/images/relics.jpg)
 
-The gameplay was fairly straightforward to come up with, take our already good combat in the game, add more stats and make it play like a roguelite. We take the player and strip them of all of their current moves and inventory from the normal game and start them with nothing. When starting the Metro Dungeon they're given the choice of three random relics to pick from. The relics are made up of a Trigger and an Effect, this let us create say 10 triggers and 10 effects to give the player 100 relics to choose from. Doing this meant I also only needed to make 20 total images and descriptions for all of the relics and a material that would layer the chosen trigger and effect images.
+The gameplay concept was relatively simple to develop. We took the already solid combat mechanics from the main game, added more stats, and made it play like a rogue-lite. In the Metro Dungeon mode, players are stripped of all their usual moves and inventory, starting from scratch. At the beginning, they are presented with a choice of three random relics, each made up of a Trigger and an Effect. This system allowed us to create 10 triggers and 10 effects, resulting in 100 unique relic combinations for the player to choose from. The clever part of this approach was that I only needed to design 20 total images and descriptions for the relics, as well as a material to layer the selected trigger and effect images together, simplifying the process while offering variety for the player.
 
 ![](/images/fighting.jpg)
 
-The player is chucked into the dungeon to fight and collect crystals for cash at the end. Surviving a wave would progress them through a series of upgrades and more waves.
+The player is chucked into the dungeon to battle enemies and collect crystals, which they can cash in at the end. Surviving each wave allows them to progress, unlocking a series of stat upgrades, combat moves/relics and advancing them through increasingly difficult waves. This creates a challenging loop of combat and progression, where each victory brings more power and more intense battles.
 
 ![](/images/stats.jpg)
 
-After defeating each wave of enemies the player is given a choice of stats to upgrade with varying potency. We were able to base these on mostly existing stats but also new ones that made sense in this gamemode, like thorns and crystal value. The screen for this was also very easy to come up with, having already made a bezel and CRT shader for the ATM screen it was light work to create a New York Metro style card payment terminal and having only three options on screen plus a re-roll button it was very simple to setup controller support as well.
+After defeating each wave of enemies, the player is given a choice of stats to upgrade, with varying levels of potency. These upgrades were primarily based on existing stats, but we also introduced new ones that fit the rogue-lite gameplay, such as thorns and crystal value.
+
+The screen for this was quick to design, as I had already created a bezel and CRT shader for the ATM screen. Using this, I designed a New York Metro-style card payment terminal. With only three options on screen plus a re-roll button, the interface was simple to set up, and implementing controller support was a breeze.
 
 ![](/images/timeline.jpg)
 
-Runs in this gamemode can also be dynamic so the UI for the Timeline had to be as well. Each wave is denoted by a red progress bar that fills as each enemy is knocked out, the white dots are the stat upgrades, yellow icons are the Milestone Relics and the blue ones are the Milestone Moves. We can add and remove waves or Milestones and the timeline UI would dynamically grow to accommodate that.
+Runs in this game mode are dynamic, so the UI for the Timeline had to be flexible as well. Each wave is represented by a red progress bar that fills as enemies are defeated. White dots indicate stat upgrades, yellow icons represent Milestone Relics, and blue icons mark Milestone Moves. The timeline UI was designed to dynamically adjust - whether waves or milestones are added or removed, the interface automatically expands or contracts to accommodate these changes.
 
 ![](/images/graff.jpg)
 
-The graffiti was another fun add and made the whole level feel a lot more bespoke. To make these more performant I opted to not use decals and instead made a billboard foliage tool that would randomise between all of the tags which let me places hundreds of these around the map with ease and not become a burden on lower-end hardware.
+The graffiti was a great addition that really helped make the level feel more unique and immersive. To ensure it performed well, I decided against using decals and instead created a billboard foliage tool. This tool randomized between all the tags, allowing me to place hundreds of graffiti pieces around the map effortlessly. This approach also ensured we were putting a burden on lower-end hardware. 
