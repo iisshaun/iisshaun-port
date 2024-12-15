@@ -10,7 +10,7 @@ addTitleSuffix: true
 colors: colors-b
 media:
   type: VideoBlock
-  title: Title of the video
+  title: Launch Trailer
   url: 'https://youtu.be/jZL6df9SVTE?si=Jiza1SLjWbgqwIt4'
   elementId: ''
   autoplay: false
