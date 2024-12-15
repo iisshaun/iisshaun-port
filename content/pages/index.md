@@ -57,23 +57,23 @@ sections:
 
 
       *   **UI Assets** for **Layouts** I've designed in **Adobe Illustrator**
-      and **Photoshop**, and the **Implementation** of these inside of **Unreal
-      Engine**, and **Unity**.
+      and **Photoshop**, and the **Implementation** of these inside **Unreal
+      Engine** and **Unity**.
 
 
       *   **UI/UX Programming** inside **Unreal** using **Blueprint**.
 
 
       *   **Logos** and **Branding** for companies, games and lore-based brands
-      inside of those game universes.
+      inside of those games.
 
 
       *   **Marketing** material, both for storefronts like **Steam** and also
-      physical media such at events such as **PAX**, **Gamescom** etc.
+      physical media for events such as **PAX** and **Gamescom**.
 
 
       *   I've also completed projects requiring **UI Shaders**, **Level
-      Design**, **Lighting**, **Game Design**, and **Textures** for 3D Assets.
+      Design**, **Lighting**, **Game Design** and **Textures** for 3D Assets.
 
     elementId: ''
     styles:
