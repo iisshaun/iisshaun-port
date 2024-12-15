@@ -19,16 +19,16 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-Reusing elements from the HUD and making universal layouts between all of the character customisation screens made these screens quicker to create but also consistent with each other.
+By reusing elements from the HUD and establishing universal layouts across all the character customization screens, I was able to speed up the creation process while maintaining consistency throughout.
 
 ![](/images/20241205222209_1.jpg)
 
-All of the character customisation screens were redesigned later in the Early Access timeline when we did a big push and focus on supporting controllers properly. These screens got quite messy and annoying to use with a virtual cursor and a scrolling list of everything on controller, so the move to tabbed categories was obvious and native controller navigation made these screens so much easier and quicker to navigate for players. Using the same background border as the normal shops in the rest of the game, each clothing shop can also have a unique colour gradient and logo associated with it.
+Later in the Early Access timeline, all of the character customisation screens were redesigned as part of a major push to improve controller support. The original design, with a virtual cursor and a single scrolling list, was cumbersome and frustrating to navigate with a controller. The switch to tabbed categories, along with native controller navigation, made these screens much more intuitive and faster to use. Additionally, to create a cohesive yet distinctive feel, each clothing shop now shares the same background border used by the regular shops in the game, allowing them to feature their own unique colour gradients and logo.
 
 ![](/images/asbestos.jpg)
 
-Players can furnish their safehouses with items bought from shops and structures they've unlocked. They can also move in "Homies" if the house meets the required needs. Increasing the value of the house with more items means that the Homie placed in said house will gain additional stat boosts as denoted by the flame icons.
+Players can furnish their safehouses with items purchased from shops and structures they've unlocked, customizing their space to their liking. They can also invite "Homies" to move in, provided the house meets the necessary requirements. By increasing the house's value with more items, players can enhance the stats of any Homie residing there, as indicated by the flame icons, which represent the stat boosts they receive.
 
 ![](/images/modshop.jpg)
 
-The ModShop was a fairly quick and simple screen to design and implement. Categories on the left are shown with the amount of unlocks discovered shown next to them. The really fun part for me here was making some of the paint jobs for the vehicles.
+The ModShop was a relatively quick and straightforward screen to design and implement. On the left, categories are displayed with the number of unlocks discovered next to each one. The most enjoyable part for me, however, was creating the various paint jobs for the vehicles.
