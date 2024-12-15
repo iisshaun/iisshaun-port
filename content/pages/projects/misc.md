@@ -8,7 +8,7 @@ media:
   type: ImageBlock
   url: /images/nb.jpg
   altText: Project image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-b
