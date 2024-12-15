@@ -9,7 +9,7 @@ description: >-
   anything else 2D related.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/station.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
