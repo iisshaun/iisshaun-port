@@ -336,7 +336,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /
+            url: /projects/rw-icarus
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
@@ -357,7 +357,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /
+            url: /projects/rw-stationeers
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
@@ -378,7 +378,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /
+            url: /projects/misc
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
