@@ -18,11 +18,11 @@ colors: colors-b
 ---
 My role on ICARUS was more supplementary than previous projects I'd worked on, but I was able to achieve some fun goals while working on it regardless. Designing the Steam Store takeover image, launch popup GIF and store capsule images were one of these highlights.
 
-![](/images/Icarus-Recon-Forest-Zone-Location-2.jpg)
+![](/images/icarus.jpg)
 
-On the HUD itself I got the task of redesigning things like the vitals area in the bottom left, the weather radar in the top right, stamina and encumbrance bars and also removing and hiding elements when they weren't necessary to tidy it up. This is where I first got deep in with Blueprint in Unreal after having a bit of experience with UMG and Unreal on some other projects. Overall dealing with some of the programming directly made implementation that much quicker and smoother and inspired me to go further with It's Only Money. 
+On the HUD itself I got the task of redesigning things like the vitals area in the bottom left, the weather radar in the top right, stamina and encumbrance bars and also removing and hiding elements when they weren't necessary to tidy it up. This is where I first got deep in with Blueprint in Unreal after having a bit of experience with UMG and Unreal on some other projects. Overall dealing with some of the programming directly made implementation that much quicker and smoother and inspired me to go further with It's Only Money.
 
-![](/images/ribbons.jpg)
+![](/images/ribbbs.jpg)
 
 A late add in the game was the Accolades System. This system was added by two programmers and myself with about a week before full release. The above ribbons are representative of the final output, I ended up making nearly 350 ribbons within a couple of days for this system. The tracking system actually worked out wonderfully and there were very few bugs to fix before we released it.
 
