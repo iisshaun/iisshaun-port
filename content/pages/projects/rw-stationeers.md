@@ -4,8 +4,9 @@ title: Stationeers
 date: '2024-12-18'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Stationeers was the first project I got my hands dirty with inside of Unity. I
+  designed all of the UI, Marketing, Store page and helped with trailers and
+  anything else 2D related.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
