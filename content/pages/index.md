@@ -436,7 +436,7 @@ sections:
       Resolve and Ableton.
 
 
-      I plan to have some updates on my progress on [my Bluesky
+      I'll have some updates on my progress in time on [my Bluesky
       account](https://bsky.app/profile/idiot.bsky.social).
     elementId: ''
     styles:
