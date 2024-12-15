@@ -19,5 +19,9 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
+![](/images/logos.jpg)
 
+Throughout Early Access we released major updates as new chapters to further progress the story and add major features to the game. Each chapter had a unique theme for its logo to match the type of content we were adding to the game. We also released a demo for It's Only Money and called it Minimum Wage Edition.
+
+![](/images/Chapter%20Two%20Bento.jpg)
 
