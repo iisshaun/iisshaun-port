@@ -7,12 +7,6 @@ description: >-
   Stationeers was the first project I got my hands dirty with inside of Unity. I
   designed all of the UI, Marketing, Store page and helped with trailers and
   anything else 2D related.
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
