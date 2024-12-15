@@ -27,6 +27,8 @@ Throughout Early Access we released major updates as new chapters to further pro
 
 ![](/images/bento%203.jpg)
 
-![](/images/bento%204@2x.jpg)Bento boxes were a fantastic way for us to show how much content we were packing into our major updates. I made one of these for each chapter from Chapter Zero to full release to compliment our Steam posts and trailers.
+![](/images/bento%204@2x.jpg)
+
+Bento boxes were a fantastic way for us to show how much content we were packing into our major updates. I made one of these for each chapter from Chapter Zero to full release to compliment our Steam posts and trailers.
 
 ![](/images/iomcov69.jpg)This was a fun album cover I made for our soundtrack, which [you can check out here](https://youtu.be/aESvGg48sg8?si=J5aq_C4vGgQHDR4K).
