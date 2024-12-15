@@ -329,6 +329,9 @@ sections:
         title: Icarus
         subtitle: ''
         text: >
+          ![](/images/icarus%20sml.jpg)
+
+
           I joined the team working on ICARUS in the later part of its
           development. Mainly helping out with the HUD, Accolades, Marketing and
           the Steam Store page.
