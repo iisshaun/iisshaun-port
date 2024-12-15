@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: New Blood / Misc
 date: '2024-12-19'
-client: Awesome client
+client: Misc
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
