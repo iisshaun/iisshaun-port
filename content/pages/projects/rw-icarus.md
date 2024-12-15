@@ -9,7 +9,7 @@ description: >-
 media:
   type: ImageBlock
   url: /images/store takeover.jpg
-  altText: Project image
+  altText: ''
   caption: ''
   elementId: ''
 addTitleSuffix: true
