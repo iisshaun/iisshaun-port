@@ -6,12 +6,6 @@ client: Usual Suspects
 description: >-
   Customisation is a big part of It's Only Money, not just to do with the
   Character, but also their Vehicles and Houses as well.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 addTitleSuffix: true
 colors: colors-b
 media:
