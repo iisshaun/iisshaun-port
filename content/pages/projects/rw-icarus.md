@@ -10,7 +10,7 @@ media:
   type: ImageBlock
   url: /images/store takeover.jpg
   altText: Project image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-b
