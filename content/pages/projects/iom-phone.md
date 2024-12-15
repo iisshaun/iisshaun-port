@@ -26,15 +26,15 @@ The phone is really just a wrapper that makes some sort of sense lore-wise, an e
 
 ManageMe started off as an inventory management screen with extra info about the players vitals, a way for them to customise their combat moves and checked their money limits. From here they can also manage how their hotbar works by choosing what item types each slot should auto-fill with, and they can use or drop any items from their inventory. In the other two tabs there are stat upgrades, mostly work taken from the Metro Dungeon and also DNA Modifiers that unlock when collecting DNA from minibosses around the city.
 
-
+![](/images/destina.jpg)
 
 The Destination app got a huge redesign during Early Access. It used to be quite hard to navigate as the camera was always angled isometrically instead of birdseye view and it wouldn't zoom out far enough. The list of destinations also grew quite large as time went on so creating categories was a must and making the icons for each location type colourful helped distinguish them from each other. Making the compass in the top right rotate accordingly with the current direction and view (if they zoomed in to isometric view it rotates another 45 degrees) also helped a lot with sense of direction.
 
-IMAGE OF LANDLORD
+![](/images/landlord.jpg)
 
 The LandLord app is where players can look at properties for sale, ones they own, Homies they've freed and their asbestOS inventory of furniture they can place in their houses.
 
-IAMGE OF WIENER
+![](/images/wiener.jpg)
 
 This is the accolade screen known as Wiener, because one of the main characters is a hotdog man. Players can track the progress of their accolades from this screen and claim the points earned from the ones achieved. Because there are a lot of very similar materials and images being used here I made the silver and gold materials take into account their position onscreen. Things like the white flash travel as a wave from the bottom right to the top left and the overall colour adjusts to be darker if the material is closer to the bottom right of the screen. This helped make the screen not look so repetitive.
 
