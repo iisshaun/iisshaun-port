@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Stationeers
 date: '2024-12-18'
-client: Awesome client
+client: RocketWerkz
 description: >-
   Stationeers was the first project I got my hands dirty with inside of Unity. I
   designed all of the UI, Marketing, Store page and helped with trailers and
