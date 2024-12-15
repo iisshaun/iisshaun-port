@@ -16,16 +16,16 @@ media:
 addTitleSuffix: true
 colors: colors-b
 ---
-This was my first project to work on at RocketWerkz, a small team of roughly 5-10 at a time. Time with programmers to work on UI was limited as they were focused on the much more complex parts of the game, so designing the UI to be simple and implementable in a short amount of time was crucial for this project.
+This was my first project at RocketWerkz, where I worked with a small team of roughly 5-10 people at a time. Given that the programmers were focused on the more complex aspects of the game, my time with them to work on the UI was limited. As a result, it was crucial to design the UI to be simple, intuitive, and implementable within a short time frame. This experience taught me how to balance creativity with practicality, ensuring that the UI was both effective and efficient for the team to integrate.
 
 ![](/images/new%20world%20stat.jpg)
 
-As Stationeers was an Early Access game we had a lot of updates, especially in our beta branch on Steam so letting the players know what was in these updates was important. With it being an engineering focused game a lot of the community appreciated the in-depth info we provided about what we were adding to the game.
+As Stationeers was an Early Access game, we had frequent updates, particularly in our beta branch on Steam. Communicating these updates to players was essential, as the community, being largely engineering-focused, appreciated detailed information about what was being added or changed in the game. Providing in-depth notes helped keep players informed and engaged, allowing them to better understand the new features and improvements. This transparency also fostered a stronger relationship with the community, as they could see the direct impact of their feedback and the ongoing development process.
 
-![](/images/tutorialszzz3.jpg)
+![](/images/tutorialszzz3.jpg)**
 
-Stationeers being a complex game required a lot of learning for players, so we made tutorials a huge focus later on in development. I made badges they could earn for learning different systems in the game like mission badges astronauts would get from NASA.
+Stationeers being a complex game, we recognised the need for thorough tutorials to help players understand its various systems. As part of this, we made tutorials a major focus later in development. To make learning more rewarding, I designed badges that players could earn by mastering different systems in the game, similar to the mission badges astronauts would receive from NASA. These badges served as both a motivation for players to explore the intricacies of the game and a fun way to acknowledge their progress as they learned and grew within the game.
 
 ![](/images/stationpedia.jpg)
 
-The Stationpedia was a great idea from Dean. We used the rich text in TextMeshPro to provide links between different subjects in the game so players could use it like an encyclopedia. Because each page was created at runtime they wouldn't go out of date, so if an item could be created with a new machine then it would say so immediately. This was handy for a game with a smaller playerbase at the time because the community-made wikis would go out of date quickly. The Stationpedia also had some options for navigation and look, it could be resized, made semi-transparent and had a decent search function.
+The Stationpedia was a fantastic idea from Dean that really enhanced the player's experience in Stationeers. We used rich text in TextMeshPro to create links between different subjects, allowing players to use it like an encyclopedia. One of its key advantages was that each page was created at runtime, meaning it would always stay up to date. For example, if a new machine allowed the creation of an item, the Stationpedia would immediately reflect that change. This was especially helpful in the early stages of the game when community-made wikis would quickly go out of date. Additionally, the Stationpedia offered customisation options, such as resizing, making it semi-transparent, and provided a robust search function to help players find the information they needed efficiently.
