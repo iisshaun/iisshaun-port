@@ -330,6 +330,30 @@ sections:
       such as RocketWerkz, New Blood Interactive and Deep Field Games. 
     items:
       - type: FeaturedItem
+        title: New Blood / Misc
+        subtitle: ''
+        text: >
+          ![](/images/misc.jpg)
+
+
+          The logo for New Blood Interactive was my first ever creation in Adobe
+          Illustrator. Read more for some extra miscellaneous pieces I've worked
+          on in the past.
+        actions:
+          - type: Button
+            label: Read More
+            altText: ''
+            url: /projects/misc
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: Icarus
         subtitle: ''
         text: >
@@ -368,30 +392,6 @@ sections:
             label: Read More
             altText: ''
             url: /projects/rw-stationeers
-            showIcon: true
-            icon: arrowUpRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: New Blood / Misc
-        subtitle: ''
-        text: >
-          ![](/images/misc.jpg)
-
-
-          The logo for New Blood Interactive was my first ever creation in Adobe
-          Illustrator. Read more for some extra miscellaneous pieces I've worked
-          on in the past.
-        actions:
-          - type: Button
-            label: Read More
-            altText: ''
-            url: /projects/misc
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
