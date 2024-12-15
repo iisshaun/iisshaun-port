@@ -24,12 +24,6 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-featuredImage:
-  type: ImageBlock
-  url: /images/HUDoverview.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 bottomSections: []
 ---
 I wanted to go for a more skeuomorphic design with the HUD for It's Only Money. Being part of a small team and having full control and creative freedom with the UI meant I could go for something less by the books and a bit out of my comfort zone. What I found was that I really enjoyed the ability to add lots of extra details that I might not have with a cleaner more minimalist design.
