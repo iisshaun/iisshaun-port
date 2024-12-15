@@ -57,23 +57,23 @@ sections:
 
 
       *   **UI Assets** for **Layouts** I've designed in **Adobe Illustrator**
-      and **Photoshop**, and the **Implementation** of these inside of **Unreal
-      Engine**, and **Unity**.
+      and **Photoshop**, and the **Implementation** of these inside **Unreal
+      Engine** and **Unity**.
 
 
       *   **UI/UX Programming** inside **Unreal** using **Blueprint**.
 
 
       *   **Logos** and **Branding** for companies, games and lore-based brands
-      inside of those game universes.
+      inside of those games.
 
 
       *   **Marketing** material, both for storefronts like **Steam** and also
-      physical media such at events such as **PAX**, **Gamescom** etc.
+      physical media for events such as **PAX** and **Gamescom**.
 
 
       *   I've also completed projects requiring **UI Shaders**, **Level
-      Design**, **Lighting**, **Game Design**, and **Textures** for 3D Assets.
+      Design**, **Lighting**, **Game Design** and **Textures** for 3D Assets.
 
     elementId: ''
     styles:
@@ -99,12 +99,12 @@ sections:
     title: Usual Suspects | 2022-2024
     text: >
       It's Only Money was made by only 5 full-time devs including myself,
-      because of that you'll see that I managed to get my hands into a lot
-      aspects of the game. During my time with Usual Suspects I was able to push
-      myself much further not just in terms of UI/UX design but also getting a
-      greater understanding of UMG, Materials and programming with Blueprint in
-      Unreal Engine. All of the UI here was created, implemented and mostly
-      programmed by myself from start to finish.
+      because of this I managed to get my hands on a lot aspects of the game.
+      During my time with Usual Suspects I was able to really push myself
+      further not just in terms of UI/UX design but also gaining greater
+      knowledge of UMG, Materials and programming with Blueprint in Unreal
+      Engine. All of the UI here was created, implemented and mostly programmed
+      by myself from start to finish.
 
 
       [Watch the launch trailer
@@ -132,7 +132,7 @@ sections:
       - type: FeaturedItem
         title: The HUD
         subtitle: ''
-        text: >
+        text: >-
           <iframe width="100%" height="219px"
           src="https://www.youtube.com/embed/m4Kj5D99-mw?si=ukfy-NkMXxzqzkFN"
           title="Youtube Video Player" frameborder="0" allow="accelerometer;
@@ -142,8 +142,9 @@ sections:
           allowfullscreen></iframe>
 
 
-          An overview of the HUD and some insight on the creative and functional
-          decisions taken with the layout and elements inside.
+          The HUD for It's Only Money has a ton of unique designs for all of the
+          individual elements. Making all of these cohesive with each other was
+          a fun challenge. 
         actions:
           - type: Button
             label: Read More
@@ -171,8 +172,8 @@ sections:
           allowfullscreen></iframe>
 
 
-          Customisation is a big part of It's Only Money, not just to do with
-          the Character, but also their Vehicles and Houses as well.
+          Customisation is a big part of It's Only Money, not only for the
+          Character, but also the player's Vehicles and Houses as well.
         actions:
           - type: Button
             label: Read More
@@ -200,7 +201,7 @@ sections:
           allowfullscreen></iframe>
 
 
-          A rogue-lite experience where I had full creative power over the Game
+          A rogue-lite gamemode where I had full creative control over the Game
           Design, Level Design & Lighting, and of course the UI/UX. Completed
           from start to finish with a programmer in 6 weeks.
         actions:
@@ -230,9 +231,9 @@ sections:
           allowfullscreen></iframe>
 
 
-          The Phone hosts a lot of "Apps" for the player to manage their
+          The Phone hosts a slew of "Apps" for the player to manage their
           inventory and character, track quests and start mini-games, interact
-          with the map, play multiplayer, track accolades and more.
+          with the map, track accolades and more.
         elementId: ''
         styles:
           self:
@@ -260,8 +261,8 @@ sections:
           allowfullscreen></iframe>
 
 
-          An overview of the terminals for managing business and world upgrades,
-          an ATM for money management and the game's Settings menu.
+          A quick look at the terminals for managing business and world
+          upgrades, an ATM for money management and the game's Settings menu.
         elementId: ''
         styles:
           self:
@@ -280,8 +281,11 @@ sections:
         title: Branding
         subtitle: ''
         text: >
-          Everything from the game logo to Steam assets, physical media for
-          expos to the in-game brands.
+          ![](/images/branding.jpg)
+
+
+          I made everything from the game logo to Steam store assets, physical
+          media for expos and the in-game brands.
         elementId: ''
         styles:
           self:
@@ -322,8 +326,8 @@ sections:
   - type: FeaturedItemsSection
     title: Other Projects | 2014-2022
     subtitle: >-
-      Below are some of the projects I've on over the years for studios like
-      RocketWerkz, New Blood and Deep Field. 
+      Below are some of the projects I've worked on over the years for studios
+      such as RocketWerkz, New Blood Interactive and Deep Field Games. 
     items:
       - type: FeaturedItem
         title: Icarus
@@ -332,7 +336,7 @@ sections:
           ![](/images/icarus%20sml.jpg)
 
 
-          I joined the team working on ICARUS in the later part of its
+          I joined the team working on ICARUS in the later stage of its
           development. Mainly helping out with the HUD, Accolades, Marketing and
           the Steam Store page.
         actions:
@@ -357,8 +361,8 @@ sections:
 
 
           Stationeers was the first project I got my hands dirty with inside of
-          Unity. I designed all of the UI, Marketing, Store page and helped with
-          trailers and anything else 2D related.
+          Unity. I designed all of the UI, Marketing, Store page assets and
+          helped with trailers and anything else 2D related.
         actions:
           - type: Button
             label: Read More
@@ -432,7 +436,7 @@ sections:
       Resolve and Ableton.
 
 
-      I plan to have some updates on my progress on [my Bluesky
+      I'll have some updates on my progress in time on [my Bluesky
       account](https://bsky.app/profile/idiot.bsky.social).
     elementId: ''
     styles:
