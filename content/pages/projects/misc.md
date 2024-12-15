@@ -7,7 +7,7 @@ description: ''
 media:
   type: ImageBlock
   url: /images/nb.jpg
-  altText: Project image
+  altText: ''
   caption: ''
   elementId: ''
 addTitleSuffix: true
