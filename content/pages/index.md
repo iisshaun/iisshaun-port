@@ -201,7 +201,7 @@ sections:
           allowfullscreen></iframe>
 
 
-          A rogue-lite experience where I had full creative power over the Game
+          A rogue-lite gamemode where I had full creative control over the Game
           Design, Level Design & Lighting, and of course the UI/UX. Completed
           from start to finish with a programmer in 6 weeks.
         actions:
