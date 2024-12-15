@@ -290,7 +290,7 @@ sections:
           - type: Button
             label: Read More
             altText: ''
-            url: /
+            url: /projects/iom-branding
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
