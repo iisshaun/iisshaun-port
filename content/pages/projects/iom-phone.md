@@ -22,17 +22,17 @@ media:
 ---
 The phone is really just a wrapper that makes some sort of sense lore-wise, an easy way to feed more features to the player without them being able to access them just magically. It also let me just pick a consistent sort of app design theme to roll with for all of the different screens we needed.
 
-IMAGE OF MANAGEME
+![](/images/manageme.jpg)
 
-ManageMe started off as an inventory management screen with extra info about the players vitals, a way for them to customise their combat moves and checked their money limits. From here they can also manage how their hotbar works by choosing what item types each slot should auto-fill with, and they can use or drop any items from their inventory. In the other two tabs there are stat upgrades, mostly work taken from the Metro Dungeon and also DNA Modifiers that unlock when collecting DNA from minibosses around the city. 
+ManageMe started off as an inventory management screen with extra info about the players vitals, a way for them to customise their combat moves and checked their money limits. From here they can also manage how their hotbar works by choosing what item types each slot should auto-fill with, and they can use or drop any items from their inventory. In the other two tabs there are stat upgrades, mostly work taken from the Metro Dungeon and also DNA Modifiers that unlock when collecting DNA from minibosses around the city.
 
-IMAGE OF DESTINATION
 
-The Destination app got a huge redesign during Early Access. It used to be quite hard to navigate as the camera was always angled isometrically instead of birdseye view and it wouldn't zoom out far enough. The list of destinations also grew quite large as time went on so creating categories was a must and making the icons for each location type colourful helped distinguish them from each other. Making the compass in the top right rotate accordingly with the current direction and view (if they zoomed in to isometric view it rotates another 45 degrees) also helped a lot with sense of direction. 
+
+The Destination app got a huge redesign during Early Access. It used to be quite hard to navigate as the camera was always angled isometrically instead of birdseye view and it wouldn't zoom out far enough. The list of destinations also grew quite large as time went on so creating categories was a must and making the icons for each location type colourful helped distinguish them from each other. Making the compass in the top right rotate accordingly with the current direction and view (if they zoomed in to isometric view it rotates another 45 degrees) also helped a lot with sense of direction.
 
 IMAGE OF LANDLORD
 
-The LandLord app is where players can look at properties for sale, ones they own, Homies they've freed and their asbestOS inventory of furniture they can place in their houses. 
+The LandLord app is where players can look at properties for sale, ones they own, Homies they've freed and their asbestOS inventory of furniture they can place in their houses.
 
 IAMGE OF WIENER
 
