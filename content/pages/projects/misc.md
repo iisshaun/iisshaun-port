@@ -17,5 +17,9 @@ I around during the creation of New Blood Interactive and at the beginning of 20
 
 ![](/images/dusk.jpg)
 
-While at New Blood I got to work on some UI and branding for a number of smaller or unreleased games and any sort of branding items we needed for the company at shows, such as business cards, websites, physical banners etc. The last thing I did was the initial logo for DUSK, and that thing did alright it looks. 
+While at New Blood I got to work on some UI and branding for a number of smaller or unreleased games and any sort of branding items we needed for the company at shows, such as business cards, websites, physical banners etc. The last thing I did was the initial logo for DUSK, and that thing did alright it looks.
+
+![](/images/ABF-Full-Color.png)After RocketWerkz and before Usual Suspects I commissioned some work for Deep Field Games and created the initial branding for their debut game Abiotic Factor.
+
+![](/images/mirrors%20comp%20light@2x.png)I also got to create the branding for the company itself.
 
