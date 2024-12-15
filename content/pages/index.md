@@ -429,11 +429,14 @@ sections:
     title: Currently...
     text: >
       Even though I am extremely comfortable working with the Adobe Suite and
-      Unreal Engine - I am currently working on a project in the Godot Engine
-      mainly to learn GDScript and improve my knowledge writing code vs visual
-      scripting. I'm also using this as an opportunity for me to get comfortable
-      with some other programs like the Affinity Designer, Aseprite, DaVinci
-      Resolve and Ableton.
+      Unreal Engine, I am currently working on a project in the Godot Engine to
+      deepen my understanding of GDScript and improve my coding skills,
+      particularly in comparison to visual scripting. I'm also using this
+      opportunity to get more familiar with other programs, such as Affinity
+      Designer, Aseprite, DaVinci Resolve, and Ableton. So far this has been a
+      great way for me to expand my toolkit and continue growing as a developer
+      and designer, learning new workflows and enhancing my versatility in
+      different areas of game development.
 
 
       I'll have some updates on my progress in time on [my Bluesky
