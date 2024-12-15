@@ -32,7 +32,11 @@ featuredImage:
   elementId: ''
 bottomSections: []
 ---
-<div style="text-align: left">I wanted to go for a more skeuomorphic design with the HUD for It's Only Money. Being part of a small team and having full control and creative freedom with the UI meant I could go for something less by the books and a bit out of my comfort zone. What I found was that I really enjoyed the ability to add lots of extra details that I might not have with a cleaner more minimalist design.![](/images/MoneyTicker.jpg)The first thing I got my hands on when starting on It's Only Money was the Money Ticker - an important part of the HUD as making money is the main goal of the game and it needed to feel satisfying to make and spend money. Five pieces of information get shown here, the current amount of cash in the player's wallet, their wallet limit, their bank card amount and limit, and the delta amount of cash coming in or going out of their wallet.</div>
+I wanted to go for a more skeuomorphic design with the HUD for It's Only Money. Being part of a small team and having full control and creative freedom with the UI meant I could go for something less by the books and a bit out of my comfort zone. What I found was that I really enjoyed the ability to add lots of extra details that I might not have with a cleaner more minimalist design.
+
+![](/images/MoneyTicker.jpg)
+
+The first thing I got my hands on when starting on It's Only Money was the Money Ticker - an important part of the HUD as making money is the main goal of the game and it needed to feel satisfying to make and spend money. Five pieces of information get shown here, the current amount of cash in the player's wallet, their wallet limit, their bank card amount and limit, and the delta amount of cash coming in or going out of their wallet.
 
 Because this widget gets used in a lot more places than just the HUD I'd set up a couple of different functions for adjusting the current amount of cash being held. One would animate the whole ticker, re-rolling each digit and locking them in individually while spewing out or sucking in the difference. This was treated as more of a spectacle for the player, the animation taking longer with satisfying sounds and cash particles dynamically set to how much money was coming in or going out. The less in-your-face quick option that was used more in shop screens would only roll the handful of digits that needed changing and the limit of how many particles would spawn was significantly less.
 
