@@ -377,9 +377,12 @@ sections:
         title: New Blood / Misc
         subtitle: ''
         text: >
+          ![](/images/misc.jpg)
+
+
           The logo for New Blood Interactive was my first ever creation in Adobe
           Illustrator. Read more for some extra miscellaneous pieces I've worked
-          on in the past. 
+          on in the past.
         actions:
           - type: Button
             label: Read More
