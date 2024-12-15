@@ -20,7 +20,7 @@ My role on ICARUS was more supplementary than previous projects I'd worked on, b
 
 ![](/images/Icarus-Recon-Forest-Zone-Location-2.jpg)
 
-On the HUD itself I got the task of redesigning things like the vitals area in the bottom left, the weather radar in the top right, stamina and encumbrance bars and also removing and hiding elements when they weren't necessary to tidy it up.
+On the HUD itself I got the task of redesigning things like the vitals area in the bottom left, the weather radar in the top right, stamina and encumbrance bars and also removing and hiding elements when they weren't necessary to tidy it up. This is where I first got deep in with Blueprint in Unreal after having a bit of experience with UMG and Unreal on some other projects. Overall dealing with some of the programming directly made implementation that much quicker and smoother and inspired me to go further with It's Only Money. 
 
 ![](/images/ribbons.jpg)
 
@@ -28,4 +28,4 @@ A late add in the game was the Accolades System. This system was added by two pr
 
 ![](/images/beta%20weekends.jpg)
 
-Along with the UI and store page assets I also worked closely with the marketing team especially with the rollout of the Beta Weekends we ran in the months leading up to release. Each playtest we would introduce a new feature and part of the map for players to explore and report their feedback back to us. This worked out great as a way to get players and streamers on-board and familiar with the game. 
+Along with the UI and store page assets I also worked closely with the marketing team especially with the rollout of the Beta Weekends we ran in the months leading up to release. Each playtest we would introduce a new feature and part of the map for players to explore and report their feedback back to us. This worked out great as a way to get players and streamers on-board and familiar with the game.
