@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: ICARUS
-date: '2024-12-17'
+date: '2024-12-18'
 client: RocketWerkz
 description: >-
   I joined the team working on ICARUS in the later part of its development.
