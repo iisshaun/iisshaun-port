@@ -261,8 +261,8 @@ sections:
           allowfullscreen></iframe>
 
 
-          An overview of the terminals for managing business and world upgrades,
-          an ATM for money management and the game's Settings menu.
+          A quick look at the terminals for managing business and world
+          upgrades, an ATM for money management and the game's Settings menu.
         elementId: ''
         styles:
           self:
