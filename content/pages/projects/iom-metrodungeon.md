@@ -4,7 +4,7 @@ title: Metro Dungeon - It's Only Money
 date: '2024-12-14'
 client: Usual Suspects
 description: >-
-  A rogue-lite experience where I had full creative power over the Game Design,
+  A rogue-lite gamemode where I had full creative control over the Game Design,
   Level Design & Lighting, and of course the UI/UX. Completed from start to
   finish with a programmer in 6 weeks.
 addTitleSuffix: true
