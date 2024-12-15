@@ -30,14 +30,14 @@ The gameplay was fairly straightforward to come up with, take our already good c
 
 The player is chucked into the dungeon to fight and collect crystals for cash at the end. Surviving a wave would progress them through a series of upgrades and more waves.
 
-
+![](/images/stats.jpg)
 
 After defeating each wave of enemies the player is given a choice of stats to upgrade with varying potency. We were able to base these on mostly existing stats but also new ones that made sense in this gamemode, like thorns and crystal value. The screen for this was also very easy to come up with, having already made a bezel and CRT shader for the ATM screen it was light work to create a New York Metro style card payment terminal and having only three options on screen plus a re-roll button it was very simple to setup controller support as well.
 
-IMAGE OF TIMELINE
+![](/images/timeline.jpg)
 
 Runs in this gamemode can also be dynamic so the UI for the Timeline had to be as well. Each wave is denoted by a red progress bar that fills as each enemy is knocked out, the white dots are the stat upgrades, yellow icons are the Milestone Relics and the blue ones are the Milestone Moves. We can add and remove waves or Milestones and the timeline UI would dynamically grow to accommodate that.
 
-IMAGE OF GRAFFITI
+
 
 The graffiti was another fun add and made the whole level feel a lot more bespoke. To make these more performant I opted to not use decals and instead made a billboard foliage tool that would randomise between all of the tags which let me places hundreds of these around the map with ease and not become a burden on lower-end hardware.
