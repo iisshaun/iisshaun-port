@@ -23,10 +23,20 @@ While at New Blood I got to work on some UI and branding for a number of smaller
 
 ![](/images/mirrors%20comp%20light@2x.png)I also got to create the branding for the company itself.
 
-
-
 #### Cancelled Projects
 
-Below are some mockups and implemented work from some games that I worked on that got cancelled. 
+Below are some mockups and implemented work from some games that I worked on that got cancelled.
 
-![](/images/curved%20mock.jpg)![](/images/contracts.jpg)![](/images/Inventory%20copy.jpg)![](/images/mGlassDD2w.jpg)![](/images/contractssss.jpg)![](/images/inventory%20hehe.jpg)![](/images/loot.jpg)
+![](/images/curved%20mock.jpg)
+
+![](/images/contracts.jpg)
+
+![](/images/UI2%20Inventory%20copy.jpg)
+
+![](/images/mGlassDD2w.jpg)
+
+![](/images/contractssss.jpg)
+
+![](/images/inventory%20hehe.jpg)
+
+![](/images/loot.jpg)
