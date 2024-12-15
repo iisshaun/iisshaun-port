@@ -20,22 +20,26 @@ media:
   controls: true
   aspectRatio: '16:9'
 ---
-The phone is really just a wrapper that makes some sort of sense lore-wise, an easy way to feed more features to the player without them being able to access them just magically. It also let me just pick a consistent sort of app design theme to roll with for all of the different screens we needed.
+The phone serves as a lore-friendly wrapper, providing a seamless way to introduce new features to the player without them feeling out of place. It allowed me to create a consistent app design theme that could be applied across all the different screens we needed. This approach not only kept the UI cohesive but also gave a logical structure to the game's mechanics, making everything feel integrated and purposeful within the game's world.
 
 ![](/images/manageme.jpg)
 
-ManageMe started off as an inventory management screen with extra info about the players vitals, a way for them to customise their combat moves and checked their money limits. From here they can also manage how their hotbar works by choosing what item types each slot should auto-fill with, and they can use or drop any items from their inventory. In the other two tabs there are stat upgrades, mostly work taken from the Metro Dungeon and also DNA Modifiers that unlock when collecting DNA from minibosses around the city.
+ManageMe originally started as an inventory management screen that provided extra information about the player’s vitals, offered customisation for combat moves, and allowed them to check their money limits. From here, players could also manage their hotbar, choosing which item types each slot should auto-fill with, as well as use or drop items from their inventory.
+
+In the other two tabs, players could access stat upgrades, many of which were derived from the Metro Dungeon mode, and DNA Modifiers, which unlock after collecting DNA from minibosses scattered around the city. This made ManageMe a central hub for not only inventory management but also character progression and customisation.
 
 ![](/images/destina.jpg)
 
-The Destination app got a huge redesign during Early Access. It used to be quite hard to navigate as the camera was always angled isometrically instead of birdseye view and it wouldn't zoom out far enough. The list of destinations also grew quite large as time went on so creating categories was a must and making the icons for each location type colourful helped distinguish them from each other. Making the compass in the top right rotate accordingly with the current direction and view (if they zoomed in to isometric view it rotates another 45 degrees) also helped a lot with sense of direction.
+The Destination app underwent a major redesign during Early Access to improve navigation. Originally, the camera was locked in an isometric angle, which made it difficult to navigate, especially since it didn’t zoom out far enough. As the list of destinations grew, it became clear that categories were essential to keep things organized. I also made colourful icons for each location type, which helped players quickly distinguish between them.
+
+To further enhance navigation, I added a rotating compass in the top right corner that adjusts based on the player’s current direction and view. When zoomed in to the isometric perspective, the compass rotates an additional 45 degrees, providing a clearer sense of direction.
 
 ![](/images/landlord.jpg)
 
-The LandLord app is where players can look at properties for sale, ones they own, Homies they've freed and their asbestOS inventory of furniture they can place in their houses.
+The LandLord app is where players can manage their properties, view ones for sale, and check out the ones they currently own. It also shows the Homies they've freed and keeps track of their asbestOS inventory, which contains furniture they can place in their houses. This app serves as a central hub for home management, offering players a way to personalise their safehouses and interact with various in-game elements related to property ownership and customisation.
 
 ![](/images/wiener.jpg)
 
-This is the accolade screen known as Wiener, because one of the main characters is a hotdog man. Players can track the progress of their accolades from this screen and claim the points earned from the ones achieved. Because there are a lot of very similar materials and images being used here I made the silver and gold materials take into account their position onscreen. Things like the white flash travel as a wave from the bottom right to the top left and the overall colour adjusts to be darker if the material is closer to the bottom right of the screen. This helped make the screen not look so repetitive.
+The accolade screen, known as Wiener (hotdog man, haha), allows players to track their progress on various accolades and claim points for the ones they've achieved. To add visual variety and prevent the screen from feeling repetitive, I used silver and gold materials that adapted to their position on the screen. For example, the white flash effect travels as a wave from the bottom right to the top left, and the colour of the materials adjust to be darker the closer they are to the bottom right.
 
-I also made the particles that spawn from claimed badges take into account where they're spawning from and how many points they've just earned.
+Additionally, I made the particles that spawn when players claim badges to respond dynamically to their location and the number of points earned.
