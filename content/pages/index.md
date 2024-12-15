@@ -280,6 +280,9 @@ sections:
         title: Branding
         subtitle: ''
         text: >
+          ![](/images/branding.jpg)
+
+
           Everything from the game logo to Steam assets, physical media for
           expos to the in-game brands.
         elementId: ''
