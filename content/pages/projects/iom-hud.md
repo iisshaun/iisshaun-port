@@ -10,7 +10,7 @@ description: >-
 media:
   type: VideoBlock
   title: HUD Overview
-  url: 'https://youtu.be/m4Kj5D99-mw'
+  url: 'https://youtu.be/hyL9sZnUYvE?si=3BjHy380i6jZjMTp'
   elementId: ''
   autoplay: false
   loop: false
