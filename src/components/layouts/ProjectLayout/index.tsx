@@ -31,9 +31,6 @@ const Component: React.FC<ComponentProps> = (props) => {
                         <header className="mb-10 sm:mb-16">
                             {client && <div className="text-lg uppercase mb-2 md:mb-6">{client}</div>}
                             <div className="md:flex md:justify-between">
-                                <div className="text-lg mb-6 md:mb-0 md:ml-12 md:order-last">
-                                    <time dateTime={dateTimeAttr}>{formattedDate}</time>
-                                </div>
                                 <h1 className="md:max-w-2xl md:flex-grow">{title}</h1>
                             </div>
                         </header>
