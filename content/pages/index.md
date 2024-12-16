@@ -137,9 +137,9 @@ sections:
       - type: FeaturedItem
         title: The HUD
         subtitle: ''
-        text: >-
+        text: >
           <iframe width="100%" height="219px"
-          src="https://www.youtube.com/embed/m4Kj5D99-mw?si=ukfy-NkMXxzqzkFN"
+          src="https://www.youtube.com/embed/hyL9sZnUYvE?si=UXLvCbQoF3T62hlB"
           title="Youtube Video Player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
           picture-in-picture; web-share"
@@ -149,7 +149,7 @@ sections:
 
           The HUD for It's Only Money has a ton of unique designs for all of the
           individual elements. Making all of these cohesive with each other was
-          a fun challenge. 
+          a fun challenge.
         actions:
           - type: Button
             label: Read More
