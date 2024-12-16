@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: New Blood / Misc
-date: '2024-12-20'
+date: '2024-12-18'
 client: Misc
 description: ''
 media:
